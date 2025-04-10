@@ -5,6 +5,7 @@ import veiculo.Veiculo;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
+import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class Loja {
@@ -27,7 +28,12 @@ public class Loja {
         return pos;
     }
     public Veiculo venderParaCliente(int idCliente) throws InterruptedException {
-        Veiculo v = esteiraLoja.take();
+        Veiculo v = esteiraLoja.poll(5, TimeUnit.SECONDS);
+
+        if (v == null) {
+            return null;
+        }
+
         Log.registroVendaLoja(v, nome, idCliente);
         return v;
     }

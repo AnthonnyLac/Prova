@@ -16,17 +16,19 @@ public class Fabrica {
     private AtomicInteger contadorVeiculos = new AtomicInteger(0);
     private EstacaoProducao [] estacoes = new EstacaoProducao[estacaoProducaoNum];
 
-    public synchronized void adquirirPecas() throws InterruptedException {
-        esteiraMontagem.acquire();
+    public void adquirirPecas() throws InterruptedException {
+        while (true) {
+            int atual = pecasEstoque.get();
+            if (atual <= 0) {
+                throw new InterruptedException("Sem peças");
+            }
 
-        int novoValor = pecasEstoque.decrementAndGet();
-
-        if (novoValor <= 0) {
-            throw new InterruptedException("Sem peças");
+            if (pecasEstoque.compareAndSet(atual, atual - 1)) {
+                break;
+            }
         }
-
-        esteiraMontagem.release();
     }
+
     public void colocarNaEsteira(Veiculo v) throws InterruptedException {
         esteiraProducao.put(v);
     }
@@ -48,9 +50,7 @@ public class Fabrica {
     }
 
     public Veiculo produzirVeiculo(int idEstacao, int idFuncionario) throws InterruptedException {
-        synchronized (this) {
-            adquirirPecas();
-        }
+        adquirirPecas();
 
         int pos = contadorPosEsteira.getAndIncrement() % 40;
         int id = contadorVeiculos.incrementAndGet();

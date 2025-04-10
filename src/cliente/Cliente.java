@@ -25,6 +25,9 @@ public class Cliente implements Runnable {
                 Loja loja = lojas.get(rand.nextInt(lojas.size()));
                 Veiculo v = loja.venderParaCliente(idCliente);
 
+                if(v == null)
+                    continue;
+
                 int posicaoGaragem = garagem.size();
                 garagem.add(v);
 
