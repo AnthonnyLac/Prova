@@ -1,0 +1,998 @@
+Log Producao Fabrica: Veiculo[id=1, cor=Vermelho, tipo=SUV, estacao=1, funcionario=2, pos=0]
+Log Producao Fabrica: Veiculo[id=9, cor=Azul, tipo=SUV, estacao=1, funcionario=1, pos=8]
+Log Venda Fabrica: Veiculo[id=3, cor=Azul, tipo=SUV, estacao=2, funcionario=1, pos=2] -> Loja 3 (pos=0)
+Log Venda Fabrica: Veiculo[id=4, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=4, pos=3] -> Loja 3 (pos=1)
+Log Venda Fabrica: Veiculo[id=2, cor=Verde, tipo=Sedan, estacao=1, funcionario=4, pos=1] -> Loja 2 (pos=0)
+Log Venda Fabrica: Veiculo[id=6, cor=Azul, tipo=Sedan, estacao=3, funcionario=4, pos=5] -> Loja 2 (pos=1)
+Log Venda Fabrica: Veiculo[id=7, cor=Vermelho, tipo=SUV, estacao=4, funcionario=1, pos=6] -> Loja 2 (pos=2)
+Log Venda Fabrica: Veiculo[id=8, cor=Verde, tipo=Sedan, estacao=4, funcionario=4, pos=7] -> Loja 2 (pos=3)
+Log Venda Fabrica: Veiculo[id=9, cor=Azul, tipo=SUV, estacao=1, funcionario=1, pos=8] -> Loja 2 (pos=4)
+Log Venda Fabrica: Veiculo[id=1, cor=Vermelho, tipo=SUV, estacao=1, funcionario=2, pos=0] -> Loja 1 (pos=0)
+Log Producao Fabrica: Veiculo[id=8, cor=Verde, tipo=Sedan, estacao=4, funcionario=4, pos=7]
+Log Producao Fabrica: Veiculo[id=7, cor=Vermelho, tipo=SUV, estacao=4, funcionario=1, pos=6]
+Log Producao Fabrica: Veiculo[id=6, cor=Azul, tipo=Sedan, estacao=3, funcionario=4, pos=5]
+Log Producao Fabrica: Veiculo[id=5, cor=Verde, tipo=SUV, estacao=3, funcionario=1, pos=4]
+Log Producao Fabrica: Veiculo[id=4, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=4, pos=3]
+Log Producao Fabrica: Veiculo[id=3, cor=Azul, tipo=SUV, estacao=2, funcionario=1, pos=2]
+Log Producao Fabrica: Veiculo[id=2, cor=Verde, tipo=Sedan, estacao=1, funcionario=4, pos=1]
+Log Producao Fabrica: Veiculo[id=16, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=3, pos=15]
+Log Producao Fabrica: Veiculo[id=17, cor=Verde, tipo=SUV, estacao=1, funcionario=5, pos=16]
+Log Producao Fabrica: Veiculo[id=15, cor=Azul, tipo=SUV, estacao=2, funcionario=2, pos=14]
+Log Producao Fabrica: Veiculo[id=14, cor=Verde, tipo=Sedan, estacao=2, funcionario=5, pos=13]
+Log Producao Fabrica: Veiculo[id=13, cor=Vermelho, tipo=SUV, estacao=3, funcionario=2, pos=12]
+Log Producao Fabrica: Veiculo[id=12, cor=Azul, tipo=Sedan, estacao=3, funcionario=5, pos=11]
+Log Venda Fabrica: Veiculo[id=11, cor=Verde, tipo=SUV, estacao=4, funcionario=5, pos=10] -> Loja 1 (pos=1)
+Log Venda Fabrica: Veiculo[id=12, cor=Azul, tipo=Sedan, estacao=3, funcionario=5, pos=11] -> Loja 1 (pos=2)
+Log Venda Fabrica: Veiculo[id=10, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=2, pos=9] -> Loja 2 (pos=5)
+Log Venda Fabrica: Veiculo[id=14, cor=Verde, tipo=Sedan, estacao=2, funcionario=5, pos=13] -> Loja 2 (pos=6)
+Log Venda Fabrica: Veiculo[id=15, cor=Azul, tipo=SUV, estacao=2, funcionario=2, pos=14] -> Loja 2 (pos=7)
+Log Venda Fabrica: Veiculo[id=16, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=3, pos=15] -> Loja 2 (pos=8)
+Log Venda Fabrica: Veiculo[id=17, cor=Verde, tipo=SUV, estacao=1, funcionario=5, pos=16] -> Loja 2 (pos=9)
+Log Producao Fabrica: Veiculo[id=10, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=2, pos=9]
+Log Producao Fabrica: Veiculo[id=11, cor=Verde, tipo=SUV, estacao=4, funcionario=5, pos=10]
+Log Venda Fabrica: Veiculo[id=5, cor=Verde, tipo=SUV, estacao=3, funcionario=1, pos=4] -> Loja 3 (pos=2)
+Log Producao Fabrica: Veiculo[id=20, cor=Verde, tipo=Sedan, estacao=4, funcionario=3, pos=19]
+Log Venda Fabrica: Veiculo[id=18, cor=Azul, tipo=Sedan, estacao=2, funcionario=3, pos=17] -> Loja 2 (pos=10)
+Log Venda Fabrica: Veiculo[id=20, cor=Verde, tipo=Sedan, estacao=4, funcionario=3, pos=19] -> Loja 2 (pos=11)
+Log Producao Fabrica: Veiculo[id=19, cor=Vermelho, tipo=SUV, estacao=3, funcionario=3, pos=18]
+Log Producao Fabrica: Veiculo[id=18, cor=Azul, tipo=Sedan, estacao=2, funcionario=3, pos=17]
+Log Venda Fabrica: Veiculo[id=13, cor=Vermelho, tipo=SUV, estacao=3, funcionario=2, pos=12] -> Loja 1 (pos=3)
+Log Venda Fabrica: Veiculo[id=19, cor=Vermelho, tipo=SUV, estacao=3, funcionario=3, pos=18] -> Loja 3 (pos=3)
+Log Producao Fabrica: Veiculo[id=21, cor=Azul, tipo=SUV, estacao=1, funcionario=1, pos=20]
+Log Venda Fabrica: Veiculo[id=21, cor=Azul, tipo=SUV, estacao=1, funcionario=1, pos=20] -> Loja 2 (pos=12)
+Log Venda Fabrica: Veiculo[id=22, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=2, pos=21] -> Loja 1 (pos=4)
+Log Producao Fabrica: Veiculo[id=22, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=2, pos=21]
+Log Producao Fabrica: Veiculo[id=23, cor=Verde, tipo=SUV, estacao=4, funcionario=4, pos=22]
+Log Venda Fabrica: Veiculo[id=24, cor=Azul, tipo=Sedan, estacao=4, funcionario=1, pos=23] -> Loja 2 (pos=13)
+Log Producao Fabrica: Veiculo[id=24, cor=Azul, tipo=Sedan, estacao=4, funcionario=1, pos=23]
+Log Venda Fabrica: Veiculo[id=23, cor=Verde, tipo=SUV, estacao=4, funcionario=4, pos=22] -> Loja 3 (pos=4)
+Log Venda Fabrica: Veiculo[id=27, cor=Azul, tipo=SUV, estacao=2, funcionario=4, pos=26] -> Loja 3 (pos=5)
+Log Venda Fabrica: Veiculo[id=28, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=1, pos=27] -> Loja 3 (pos=6)
+Log Venda Fabrica: Veiculo[id=29, cor=Verde, tipo=SUV, estacao=1, funcionario=4, pos=28] -> Loja 3 (pos=7)
+Log Producao Fabrica: Veiculo[id=28, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=1, pos=27]
+Log Producao Fabrica: Veiculo[id=27, cor=Azul, tipo=SUV, estacao=2, funcionario=4, pos=26]
+Log Venda Fabrica: Veiculo[id=26, cor=Verde, tipo=Sedan, estacao=3, funcionario=1, pos=25] -> Loja 2 (pos=14)
+Log Producao Fabrica: Veiculo[id=26, cor=Verde, tipo=Sedan, estacao=3, funcionario=1, pos=25]
+Log Venda Fabrica: Veiculo[id=25, cor=Vermelho, tipo=SUV, estacao=3, funcionario=4, pos=24] -> Loja 1 (pos=5)
+Log Producao Fabrica: Veiculo[id=25, cor=Vermelho, tipo=SUV, estacao=3, funcionario=4, pos=24]
+Log Venda Fabrica: Veiculo[id=32, cor=Verde, tipo=Sedan, estacao=3, funcionario=2, pos=31] -> Loja 1 (pos=6)
+Log Producao Fabrica: Veiculo[id=34, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=5, pos=33]
+Log Producao Fabrica: Veiculo[id=33, cor=Azul, tipo=SUV, estacao=4, funcionario=2, pos=32]
+Log Producao Fabrica: Veiculo[id=32, cor=Verde, tipo=Sedan, estacao=3, funcionario=2, pos=31]
+Log Venda Fabrica: Veiculo[id=31, cor=Vermelho, tipo=SUV, estacao=2, funcionario=5, pos=30] -> Loja 2 (pos=15)
+Log Producao Fabrica: Veiculo[id=31, cor=Vermelho, tipo=SUV, estacao=2, funcionario=5, pos=30]
+Log Venda Fabrica: Veiculo[id=30, cor=Azul, tipo=Sedan, estacao=2, funcionario=2, pos=29] -> Loja 3 (pos=8)
+Log Producao Fabrica: Veiculo[id=36, cor=Azul, tipo=Sedan, estacao=4, funcionario=3, pos=35]
+Log Producao Fabrica: Veiculo[id=30, cor=Azul, tipo=Sedan, estacao=2, funcionario=2, pos=29]
+Log Producao Fabrica: Veiculo[id=29, cor=Verde, tipo=SUV, estacao=1, funcionario=4, pos=28]
+Log Venda Fabrica: Veiculo[id=35, cor=Verde, tipo=SUV, estacao=3, funcionario=5, pos=34] -> Loja 3 (pos=9)
+Log Venda Fabrica: Veiculo[id=34, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=5, pos=33] -> Loja 2 (pos=16)
+Log Venda Fabrica: Veiculo[id=37, cor=Vermelho, tipo=SUV, estacao=1, funcionario=3, pos=36] -> Loja 2 (pos=17)
+Log Venda Fabrica: Veiculo[id=33, cor=Azul, tipo=SUV, estacao=4, funcionario=2, pos=32] -> Loja 1 (pos=7)
+Log Venda Fabrica: Veiculo[id=39, cor=Azul, tipo=SUV, estacao=3, funcionario=3, pos=38] -> Loja 1 (pos=8)
+Log Venda Fabrica: Veiculo[id=40, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=3, pos=39] -> Loja 1 (pos=9)
+Log Venda Fabrica: Veiculo[id=38, cor=Verde, tipo=Sedan, estacao=1, funcionario=5, pos=37] -> Loja 2 (pos=18)
+Log Producao Fabrica: Veiculo[id=35, cor=Verde, tipo=SUV, estacao=3, funcionario=5, pos=34]
+Log Producao Fabrica: Veiculo[id=40, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=3, pos=39]
+Log Producao Fabrica: Veiculo[id=39, cor=Azul, tipo=SUV, estacao=3, funcionario=3, pos=38]
+Log Venda Fabrica: Veiculo[id=36, cor=Azul, tipo=Sedan, estacao=4, funcionario=3, pos=35] -> Loja 3 (pos=10)
+Log Producao Fabrica: Veiculo[id=38, cor=Verde, tipo=Sedan, estacao=1, funcionario=5, pos=37]
+Log Producao Fabrica: Veiculo[id=37, cor=Vermelho, tipo=SUV, estacao=1, funcionario=3, pos=36]
+Log Producao Fabrica: Veiculo[id=41, cor=Verde, tipo=SUV, estacao=1, funcionario=1, pos=0]
+Log Venda Fabrica: Veiculo[id=41, cor=Verde, tipo=SUV, estacao=1, funcionario=1, pos=0] -> Loja 1 (pos=10)
+Log Producao Fabrica: Veiculo[id=42, cor=Azul, tipo=Sedan, estacao=1, funcionario=2, pos=1]
+Log Venda Fabrica: Veiculo[id=42, cor=Azul, tipo=Sedan, estacao=1, funcionario=2, pos=1] -> Loja 2 (pos=19)
+Log Producao Fabrica: Veiculo[id=43, cor=Vermelho, tipo=SUV, estacao=4, funcionario=4, pos=2]
+Log Venda Fabrica: Veiculo[id=43, cor=Vermelho, tipo=SUV, estacao=4, funcionario=4, pos=2] -> Loja 3 (pos=11)
+Log Venda Fabrica: Veiculo[id=44, cor=Verde, tipo=Sedan, estacao=4, funcionario=1, pos=3] -> Loja 1 (pos=11)
+Log Producao Fabrica: Veiculo[id=44, cor=Verde, tipo=Sedan, estacao=4, funcionario=1, pos=3]
+Log Producao Fabrica: Veiculo[id=45, cor=Azul, tipo=SUV, estacao=2, funcionario=1, pos=4]
+Log Venda Fabrica: Veiculo[id=46, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=4, pos=5] -> Loja 3 (pos=12)
+Log Venda Fabrica: Veiculo[id=47, cor=Verde, tipo=SUV, estacao=3, funcionario=1, pos=6] -> Loja 3 (pos=13)
+Log Producao Fabrica: Veiculo[id=46, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=4, pos=5]
+Log Venda Fabrica: Veiculo[id=45, cor=Azul, tipo=SUV, estacao=2, funcionario=1, pos=4] -> Loja 2 (pos=20)
+Log Producao Fabrica: Veiculo[id=47, cor=Verde, tipo=SUV, estacao=3, funcionario=1, pos=6]
+Log Producao Fabrica: Veiculo[id=48, cor=Azul, tipo=Sedan, estacao=3, funcionario=4, pos=7]
+Log Producao Fabrica: Veiculo[id=49, cor=Vermelho, tipo=SUV, estacao=4, funcionario=5, pos=8]
+Log Producao Fabrica: Veiculo[id=50, cor=Verde, tipo=Sedan, estacao=4, funcionario=2, pos=9]
+Log Venda Fabrica: Veiculo[id=49, cor=Vermelho, tipo=SUV, estacao=4, funcionario=5, pos=8] -> Loja 1 (pos=12)
+Log Producao Fabrica: Veiculo[id=52, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=5, pos=11]
+Log Venda Fabrica: Veiculo[id=48, cor=Azul, tipo=Sedan, estacao=3, funcionario=4, pos=7] -> Loja 3 (pos=14)
+Log Venda Fabrica: Veiculo[id=51, cor=Azul, tipo=SUV, estacao=3, funcionario=2, pos=10] -> Loja 1 (pos=13)
+Log Venda Fabrica: Veiculo[id=53, cor=Verde, tipo=SUV, estacao=4, funcionario=3, pos=12] -> Loja 1 (pos=14)
+Log Venda Fabrica: Veiculo[id=54, cor=Azul, tipo=Sedan, estacao=2, funcionario=2, pos=13] -> Loja 1 (pos=15)
+Log Producao Fabrica: Veiculo[id=51, cor=Azul, tipo=SUV, estacao=3, funcionario=2, pos=10]
+Log Venda Fabrica: Veiculo[id=50, cor=Verde, tipo=Sedan, estacao=4, funcionario=2, pos=9] -> Loja 2 (pos=21)
+Log Venda Fabrica: Veiculo[id=55, cor=Vermelho, tipo=SUV, estacao=1, funcionario=4, pos=14] -> Loja 1 (pos=16)
+Log Producao Fabrica: Veiculo[id=55, cor=Vermelho, tipo=SUV, estacao=1, funcionario=4, pos=14]
+Log Producao Fabrica: Veiculo[id=54, cor=Azul, tipo=Sedan, estacao=2, funcionario=2, pos=13]
+Log Producao Fabrica: Veiculo[id=53, cor=Verde, tipo=SUV, estacao=4, funcionario=3, pos=12]
+Log Venda Fabrica: Veiculo[id=52, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=5, pos=11] -> Loja 3 (pos=15)
+Log Producao Fabrica: Veiculo[id=56, cor=Verde, tipo=Sedan, estacao=3, funcionario=5, pos=15]
+Log Venda Fabrica: Veiculo[id=56, cor=Verde, tipo=Sedan, estacao=3, funcionario=5, pos=15] -> Loja 2 (pos=22)
+Log Producao Fabrica: Veiculo[id=57, cor=Azul, tipo=SUV, estacao=2, funcionario=3, pos=16]
+Log Venda Fabrica: Veiculo[id=57, cor=Azul, tipo=SUV, estacao=2, funcionario=3, pos=16] -> Loja 1 (pos=17)
+Log Producao Fabrica: Veiculo[id=60, cor=Azul, tipo=Sedan, estacao=1, funcionario=3, pos=19]
+Log Venda Fabrica: Veiculo[id=60, cor=Azul, tipo=Sedan, estacao=1, funcionario=3, pos=19] -> Loja 1 (pos=18)
+Log Venda Fabrica: Veiculo[id=59, cor=Verde, tipo=SUV, estacao=1, funcionario=5, pos=18] -> Loja 2 (pos=23)
+Log Producao Fabrica: Veiculo[id=59, cor=Verde, tipo=SUV, estacao=1, funcionario=5, pos=18]
+Log Venda Fabrica: Veiculo[id=58, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=3, pos=17] -> Loja 3 (pos=16)
+Log Producao Fabrica: Veiculo[id=58, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=3, pos=17]
+Log Producao Fabrica: Veiculo[id=61, cor=Vermelho, tipo=SUV, estacao=1, funcionario=1, pos=20]
+Log Venda Fabrica: Veiculo[id=61, cor=Vermelho, tipo=SUV, estacao=1, funcionario=1, pos=20] -> Loja 1 (pos=19)
+Log Venda Fabrica: Veiculo[id=62, cor=Verde, tipo=Sedan, estacao=1, funcionario=2, pos=21] -> Loja 2 (pos=24)
+Log Producao Fabrica: Veiculo[id=62, cor=Verde, tipo=Sedan, estacao=1, funcionario=2, pos=21]
+Log Producao Fabrica: Veiculo[id=63, cor=Azul, tipo=SUV, estacao=4, funcionario=4, pos=22]
+Log Venda Fabrica: Veiculo[id=63, cor=Azul, tipo=SUV, estacao=4, funcionario=4, pos=22] -> Loja 3 (pos=17)
+Log Producao Fabrica: Veiculo[id=64, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=1, pos=23]
+Log Venda Fabrica: Veiculo[id=64, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=1, pos=23] -> Loja 1 (pos=20)
+Log Producao Fabrica: Veiculo[id=65, cor=Verde, tipo=SUV, estacao=2, funcionario=1, pos=24]
+Log Venda Fabrica: Veiculo[id=65, cor=Verde, tipo=SUV, estacao=2, funcionario=1, pos=24] -> Loja 2 (pos=25)
+Log Producao Fabrica: Veiculo[id=66, cor=Azul, tipo=Sedan, estacao=2, funcionario=4, pos=25]
+Log Venda Fabrica: Veiculo[id=66, cor=Azul, tipo=Sedan, estacao=2, funcionario=4, pos=25] -> Loja 3 (pos=18)
+Log Venda Fabrica: Veiculo[id=67, cor=Vermelho, tipo=SUV, estacao=3, funcionario=1, pos=26] -> Loja 1 (pos=21)
+Log Producao Fabrica: Veiculo[id=67, cor=Vermelho, tipo=SUV, estacao=3, funcionario=1, pos=26]
+Log Producao Fabrica: Veiculo[id=69, cor=Azul, tipo=SUV, estacao=4, funcionario=5, pos=28]
+Log Venda Fabrica: Veiculo[id=69, cor=Azul, tipo=SUV, estacao=4, funcionario=5, pos=28] -> Loja 3 (pos=19)
+Log Venda Fabrica: Veiculo[id=70, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=2, pos=29] -> Loja 3 (pos=20)
+Log Venda Fabrica: Veiculo[id=68, cor=Verde, tipo=Sedan, estacao=3, funcionario=4, pos=27] -> Loja 2 (pos=26)
+Log Producao Fabrica: Veiculo[id=68, cor=Verde, tipo=Sedan, estacao=3, funcionario=4, pos=27]
+Log Venda Fabrica: Veiculo[id=71, cor=Verde, tipo=SUV, estacao=2, funcionario=5, pos=30] -> Loja 3 (pos=21)
+Log Producao Fabrica: Veiculo[id=71, cor=Verde, tipo=SUV, estacao=2, funcionario=5, pos=30]
+Log Producao Fabrica: Veiculo[id=70, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=2, pos=29]
+Log Producao Fabrica: Veiculo[id=72, cor=Azul, tipo=Sedan, estacao=3, funcionario=2, pos=31]
+Log Venda Fabrica: Veiculo[id=72, cor=Azul, tipo=Sedan, estacao=3, funcionario=2, pos=31] -> Loja 1 (pos=22)
+Log Producao Fabrica: Veiculo[id=73, cor=Vermelho, tipo=SUV, estacao=1, funcionario=4, pos=32]
+Log Venda Fabrica: Veiculo[id=75, cor=Azul, tipo=SUV, estacao=4, funcionario=3, pos=34] -> Loja 1 (pos=23)
+Log Venda Fabrica: Veiculo[id=74, cor=Verde, tipo=Sedan, estacao=2, funcionario=2, pos=33] -> Loja 3 (pos=22)
+Log Producao Fabrica: Veiculo[id=74, cor=Verde, tipo=Sedan, estacao=2, funcionario=2, pos=33]
+Log Venda Fabrica: Veiculo[id=73, cor=Vermelho, tipo=SUV, estacao=1, funcionario=4, pos=32] -> Loja 2 (pos=27)
+Log Venda Fabrica: Veiculo[id=76, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=5, pos=35] -> Loja 1 (pos=24)
+Log Producao Fabrica: Veiculo[id=76, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=5, pos=35]
+Log Producao Fabrica: Veiculo[id=77, cor=Verde, tipo=SUV, estacao=2, funcionario=3, pos=36]
+Log Producao Fabrica: Veiculo[id=75, cor=Azul, tipo=SUV, estacao=4, funcionario=3, pos=34]
+Log Venda Fabrica: Veiculo[id=77, cor=Verde, tipo=SUV, estacao=2, funcionario=3, pos=36] -> Loja 3 (pos=23)
+Log Producao Fabrica: Veiculo[id=78, cor=Azul, tipo=Sedan, estacao=1, funcionario=3, pos=37]
+Log Venda Fabrica: Veiculo[id=78, cor=Azul, tipo=Sedan, estacao=1, funcionario=3, pos=37] -> Loja 2 (pos=28)
+Log Producao Fabrica: Veiculo[id=79, cor=Vermelho, tipo=SUV, estacao=1, funcionario=5, pos=38]
+Log Producao Fabrica: Veiculo[id=80, cor=Verde, tipo=Sedan, estacao=3, funcionario=3, pos=39]
+Log Venda Fabrica: Veiculo[id=79, cor=Vermelho, tipo=SUV, estacao=1, funcionario=5, pos=38] -> Loja 1 (pos=25)
+Log Venda Fabrica: Veiculo[id=80, cor=Verde, tipo=Sedan, estacao=3, funcionario=3, pos=39] -> Loja 3 (pos=24)
+Log Producao Fabrica: Veiculo[id=81, cor=Azul, tipo=SUV, estacao=1, funcionario=1, pos=0]
+Log Venda Fabrica: Veiculo[id=81, cor=Azul, tipo=SUV, estacao=1, funcionario=1, pos=0] -> Loja 2 (pos=29)
+Log Producao Fabrica: Veiculo[id=82, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=2, pos=1]
+Log Venda Fabrica: Veiculo[id=82, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=2, pos=1] -> Loja 1 (pos=26)
+Log Producao Fabrica: Veiculo[id=83, cor=Verde, tipo=SUV, estacao=4, funcionario=4, pos=2]
+Log Venda Fabrica: Veiculo[id=83, cor=Verde, tipo=SUV, estacao=4, funcionario=4, pos=2] -> Loja 3 (pos=25)
+Log Producao Fabrica: Veiculo[id=84, cor=Azul, tipo=Sedan, estacao=4, funcionario=1, pos=3]
+Log Venda Fabrica: Veiculo[id=84, cor=Azul, tipo=Sedan, estacao=4, funcionario=1, pos=3] -> Loja 2 (pos=30)
+Log Producao Fabrica: Veiculo[id=85, cor=Vermelho, tipo=SUV, estacao=2, funcionario=1, pos=4]
+Log Venda Fabrica: Veiculo[id=85, cor=Vermelho, tipo=SUV, estacao=2, funcionario=1, pos=4] -> Loja 1 (pos=27)
+Log Producao Fabrica: Veiculo[id=86, cor=Verde, tipo=Sedan, estacao=2, funcionario=4, pos=5]
+Log Venda Fabrica: Veiculo[id=86, cor=Verde, tipo=Sedan, estacao=2, funcionario=4, pos=5] -> Loja 3 (pos=26)
+Log Producao Fabrica: Veiculo[id=87, cor=Azul, tipo=SUV, estacao=3, funcionario=1, pos=6]
+Log Venda Fabrica: Veiculo[id=88, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=5, pos=7] -> Loja 1 (pos=28)
+Log Producao Fabrica: Veiculo[id=88, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=5, pos=7]
+Log Venda Fabrica: Veiculo[id=87, cor=Azul, tipo=SUV, estacao=3, funcionario=1, pos=6] -> Loja 2 (pos=31)
+Log Producao Fabrica: Veiculo[id=89, cor=Verde, tipo=SUV, estacao=4, funcionario=2, pos=8]
+Log Producao Fabrica: Veiculo[id=90, cor=Azul, tipo=Sedan, estacao=2, funcionario=5, pos=9]
+Log Venda Fabrica: Veiculo[id=90, cor=Azul, tipo=Sedan, estacao=2, funcionario=5, pos=9] -> Loja 1 (pos=29)
+Log Venda Fabrica: Veiculo[id=91, cor=Vermelho, tipo=SUV, estacao=3, funcionario=4, pos=10] -> Loja 1 (pos=30)
+Log Venda Fabrica: Veiculo[id=92, cor=Verde, tipo=Sedan, estacao=3, funcionario=2, pos=11] -> Loja 1 (pos=31)
+Log Producao Fabrica: Veiculo[id=91, cor=Vermelho, tipo=SUV, estacao=3, funcionario=4, pos=10]
+Log Venda Fabrica: Veiculo[id=89, cor=Verde, tipo=SUV, estacao=4, funcionario=2, pos=8] -> Loja 3 (pos=27)
+Log Producao Fabrica: Veiculo[id=92, cor=Verde, tipo=Sedan, estacao=3, funcionario=2, pos=11]
+Log Producao Fabrica: Veiculo[id=93, cor=Azul, tipo=SUV, estacao=1, funcionario=4, pos=12]
+Log Venda Fabrica: Veiculo[id=93, cor=Azul, tipo=SUV, estacao=1, funcionario=4, pos=12] -> Loja 1 (pos=32)
+Log Producao Fabrica: Veiculo[id=94, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=2, pos=13]
+Log Producao Fabrica: Veiculo[id=95, cor=Verde, tipo=SUV, estacao=3, funcionario=5, pos=14]
+Log Producao Fabrica: Veiculo[id=96, cor=Azul, tipo=Sedan, estacao=2, funcionario=3, pos=15]
+Log Producao Fabrica: Veiculo[id=97, cor=Vermelho, tipo=SUV, estacao=4, funcionario=3, pos=16]
+Log Venda Fabrica: Veiculo[id=94, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=2, pos=13] -> Loja 2 (pos=32)
+Log Venda Fabrica: Veiculo[id=97, cor=Vermelho, tipo=SUV, estacao=4, funcionario=3, pos=16] -> Loja 2 (pos=33)
+Log Venda Fabrica: Veiculo[id=96, cor=Azul, tipo=Sedan, estacao=2, funcionario=3, pos=15] -> Loja 1 (pos=33)
+Log Venda Fabrica: Veiculo[id=95, cor=Verde, tipo=SUV, estacao=3, funcionario=5, pos=14] -> Loja 3 (pos=28)
+Log Producao Fabrica: Veiculo[id=100, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=3, pos=19]
+Log Venda Fabrica: Veiculo[id=100, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=3, pos=19] -> Loja 3 (pos=29)
+Log Venda Fabrica: Veiculo[id=98, cor=Verde, tipo=Sedan, estacao=1, funcionario=3, pos=17] -> Loja 2 (pos=34)
+Log Producao Fabrica: Veiculo[id=98, cor=Verde, tipo=Sedan, estacao=1, funcionario=3, pos=17]
+Log Venda Fabrica: Veiculo[id=99, cor=Azul, tipo=SUV, estacao=1, funcionario=5, pos=18] -> Loja 1 (pos=34)
+Log Producao Fabrica: Veiculo[id=99, cor=Azul, tipo=SUV, estacao=1, funcionario=5, pos=18]
+Log Producao Fabrica: Veiculo[id=101, cor=Verde, tipo=SUV, estacao=1, funcionario=1, pos=20]
+Log Venda Fabrica: Veiculo[id=101, cor=Verde, tipo=SUV, estacao=1, funcionario=1, pos=20] -> Loja 3 (pos=30)
+Log Producao Fabrica: Veiculo[id=102, cor=Azul, tipo=Sedan, estacao=1, funcionario=2, pos=21]
+Log Venda Fabrica: Veiculo[id=102, cor=Azul, tipo=Sedan, estacao=1, funcionario=2, pos=21] -> Loja 2 (pos=35)
+Log Producao Fabrica: Veiculo[id=103, cor=Vermelho, tipo=SUV, estacao=4, funcionario=4, pos=22]
+Log Venda Fabrica: Veiculo[id=103, cor=Vermelho, tipo=SUV, estacao=4, funcionario=4, pos=22] -> Loja 1 (pos=35)
+Log Producao Fabrica: Veiculo[id=104, cor=Verde, tipo=Sedan, estacao=4, funcionario=1, pos=23]
+Log Venda Fabrica: Veiculo[id=104, cor=Verde, tipo=Sedan, estacao=4, funcionario=1, pos=23] -> Loja 3 (pos=31)
+Log Producao Fabrica: Veiculo[id=105, cor=Azul, tipo=SUV, estacao=2, funcionario=1, pos=24]
+Log Venda Fabrica: Veiculo[id=105, cor=Azul, tipo=SUV, estacao=2, funcionario=1, pos=24] -> Loja 2 (pos=36)
+Log Producao Fabrica: Veiculo[id=106, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=4, pos=25]
+Log Venda Fabrica: Veiculo[id=106, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=4, pos=25] -> Loja 1 (pos=36)
+Log Producao Fabrica: Veiculo[id=107, cor=Verde, tipo=SUV, estacao=3, funcionario=1, pos=26]
+Log Venda Fabrica: Veiculo[id=107, cor=Verde, tipo=SUV, estacao=3, funcionario=1, pos=26] -> Loja 3 (pos=32)
+Log Venda Fabrica: Veiculo[id=108, cor=Azul, tipo=Sedan, estacao=4, funcionario=5, pos=27] -> Loja 2 (pos=37)
+Log Producao Fabrica: Veiculo[id=108, cor=Azul, tipo=Sedan, estacao=4, funcionario=5, pos=27]
+Log Producao Fabrica: Veiculo[id=109, cor=Vermelho, tipo=SUV, estacao=4, funcionario=2, pos=28]
+Log Venda Fabrica: Veiculo[id=109, cor=Vermelho, tipo=SUV, estacao=4, funcionario=2, pos=28] -> Loja 1 (pos=37)
+Log Producao Fabrica: Veiculo[id=110, cor=Verde, tipo=Sedan, estacao=2, funcionario=5, pos=29]
+Log Venda Fabrica: Veiculo[id=111, cor=Azul, tipo=SUV, estacao=3, funcionario=4, pos=30] -> Loja 2 (pos=38)
+Log Producao Fabrica: Veiculo[id=111, cor=Azul, tipo=SUV, estacao=3, funcionario=4, pos=30]
+Log Venda Fabrica: Veiculo[id=110, cor=Verde, tipo=Sedan, estacao=2, funcionario=5, pos=29] -> Loja 3 (pos=33)
+Log Producao Fabrica: Veiculo[id=112, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=2, pos=31]
+Log Venda Fabrica: Veiculo[id=112, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=2, pos=31] -> Loja 1 (pos=38)
+Log Venda Fabrica: Veiculo[id=113, cor=Verde, tipo=SUV, estacao=1, funcionario=4, pos=32] -> Loja 2 (pos=39)
+Log Producao Fabrica: Veiculo[id=113, cor=Verde, tipo=SUV, estacao=1, funcionario=4, pos=32]
+Log Producao Fabrica: Veiculo[id=114, cor=Azul, tipo=Sedan, estacao=2, funcionario=2, pos=33]
+Log Venda Fabrica: Veiculo[id=115, cor=Vermelho, tipo=SUV, estacao=3, funcionario=5, pos=34] -> Loja 1 (pos=39)
+Log Producao Fabrica: Veiculo[id=115, cor=Vermelho, tipo=SUV, estacao=3, funcionario=5, pos=34]
+Log Venda Fabrica: Veiculo[id=114, cor=Azul, tipo=Sedan, estacao=2, funcionario=2, pos=33] -> Loja 3 (pos=34)
+Log Venda Fabrica: Veiculo[id=117, cor=Azul, tipo=SUV, estacao=4, funcionario=3, pos=36] -> Loja 3 (pos=35)
+Log Venda Fabrica: Veiculo[id=116, cor=Verde, tipo=Sedan, estacao=2, funcionario=3, pos=35] -> Loja 1 (pos=0)
+Log Producao Fabrica: Veiculo[id=117, cor=Azul, tipo=SUV, estacao=4, funcionario=3, pos=36]
+Log Producao Fabrica: Veiculo[id=116, cor=Verde, tipo=Sedan, estacao=2, funcionario=3, pos=35]
+Log Producao Fabrica: Veiculo[id=118, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=3, pos=37]
+Log Producao Fabrica: Veiculo[id=119, cor=Verde, tipo=SUV, estacao=1, funcionario=3, pos=38]
+Log Venda Fabrica: Veiculo[id=118, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=3, pos=37] -> Loja 3 (pos=36)
+Log Venda Fabrica: Veiculo[id=120, cor=Azul, tipo=Sedan, estacao=1, funcionario=5, pos=39] -> Loja 2 (pos=0)
+Log Venda Fabrica: Veiculo[id=119, cor=Verde, tipo=SUV, estacao=1, funcionario=3, pos=38] -> Loja 1 (pos=1)
+Log Producao Fabrica: Veiculo[id=120, cor=Azul, tipo=Sedan, estacao=1, funcionario=5, pos=39]
+Log Venda Fabrica: Veiculo[id=121, cor=Vermelho, tipo=SUV, estacao=1, funcionario=1, pos=0] -> Loja 3 (pos=37)
+Log Producao Fabrica: Veiculo[id=121, cor=Vermelho, tipo=SUV, estacao=1, funcionario=1, pos=0]
+Log Producao Fabrica: Veiculo[id=122, cor=Verde, tipo=Sedan, estacao=1, funcionario=2, pos=1]
+Log Venda Fabrica: Veiculo[id=122, cor=Verde, tipo=Sedan, estacao=1, funcionario=2, pos=1] -> Loja 2 (pos=1)
+Log Producao Fabrica: Veiculo[id=123, cor=Azul, tipo=SUV, estacao=4, funcionario=4, pos=2]
+Log Venda Fabrica: Veiculo[id=123, cor=Azul, tipo=SUV, estacao=4, funcionario=4, pos=2] -> Loja 1 (pos=2)
+Log Producao Fabrica: Veiculo[id=124, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=1, pos=3]
+Log Venda Fabrica: Veiculo[id=124, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=1, pos=3] -> Loja 3 (pos=38)
+Log Producao Fabrica: Veiculo[id=125, cor=Verde, tipo=SUV, estacao=2, funcionario=1, pos=4]
+Log Venda Fabrica: Veiculo[id=125, cor=Verde, tipo=SUV, estacao=2, funcionario=1, pos=4] -> Loja 2 (pos=2)
+Log Producao Fabrica: Veiculo[id=126, cor=Azul, tipo=Sedan, estacao=2, funcionario=4, pos=5]
+Log Venda Fabrica: Veiculo[id=126, cor=Azul, tipo=Sedan, estacao=2, funcionario=4, pos=5] -> Loja 1 (pos=3)
+Log Venda Fabrica: Veiculo[id=127, cor=Vermelho, tipo=SUV, estacao=3, funcionario=1, pos=6] -> Loja 3 (pos=39)
+Log Producao Fabrica: Veiculo[id=127, cor=Vermelho, tipo=SUV, estacao=3, funcionario=1, pos=6]
+Log Producao Fabrica: Veiculo[id=128, cor=Verde, tipo=Sedan, estacao=4, funcionario=5, pos=7]
+Log Venda Fabrica: Veiculo[id=128, cor=Verde, tipo=Sedan, estacao=4, funcionario=5, pos=7] -> Loja 2 (pos=3)
+Log Producao Fabrica: Veiculo[id=129, cor=Azul, tipo=SUV, estacao=4, funcionario=2, pos=8]
+Log Venda Fabrica: Veiculo[id=129, cor=Azul, tipo=SUV, estacao=4, funcionario=2, pos=8] -> Loja 1 (pos=4)
+Log Producao Fabrica: Veiculo[id=130, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=5, pos=9]
+Log Venda Fabrica: Veiculo[id=130, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=5, pos=9] -> Loja 3 (pos=0)
+Log Producao Fabrica: Veiculo[id=131, cor=Verde, tipo=SUV, estacao=3, funcionario=4, pos=10]
+Log Venda Fabrica: Veiculo[id=131, cor=Verde, tipo=SUV, estacao=3, funcionario=4, pos=10] -> Loja 2 (pos=4)
+Log Venda Fabrica: Veiculo[id=132, cor=Azul, tipo=Sedan, estacao=3, funcionario=2, pos=11] -> Loja 2 (pos=5)
+Log Producao Fabrica: Veiculo[id=132, cor=Azul, tipo=Sedan, estacao=3, funcionario=2, pos=11]
+Log Producao Fabrica: Veiculo[id=133, cor=Vermelho, tipo=SUV, estacao=1, funcionario=4, pos=12]
+Log Venda Fabrica: Veiculo[id=134, cor=Verde, tipo=Sedan, estacao=2, funcionario=2, pos=13] -> Loja 1 (pos=5)
+Log Producao Fabrica: Veiculo[id=134, cor=Verde, tipo=Sedan, estacao=2, funcionario=2, pos=13]
+Log Venda Fabrica: Veiculo[id=133, cor=Vermelho, tipo=SUV, estacao=1, funcionario=4, pos=12] -> Loja 3 (pos=1)
+Log Producao Fabrica: Veiculo[id=135, cor=Azul, tipo=SUV, estacao=3, funcionario=5, pos=14]
+Log Venda Fabrica: Veiculo[id=135, cor=Azul, tipo=SUV, estacao=3, funcionario=5, pos=14] -> Loja 2 (pos=6)
+Log Producao Fabrica: Veiculo[id=136, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=3, pos=15]
+Log Venda Fabrica: Veiculo[id=137, cor=Verde, tipo=SUV, estacao=2, funcionario=3, pos=16] -> Loja 3 (pos=2)
+Log Producao Fabrica: Veiculo[id=137, cor=Verde, tipo=SUV, estacao=2, funcionario=3, pos=16]
+Log Venda Fabrica: Veiculo[id=136, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=3, pos=15] -> Loja 1 (pos=6)
+Log Venda Fabrica: Veiculo[id=138, cor=Azul, tipo=Sedan, estacao=3, funcionario=3, pos=17] -> Loja 2 (pos=7)
+Log Producao Fabrica: Veiculo[id=138, cor=Azul, tipo=Sedan, estacao=3, funcionario=3, pos=17]
+Log Venda Fabrica: Veiculo[id=139, cor=Vermelho, tipo=SUV, estacao=1, funcionario=3, pos=18] -> Loja 3 (pos=3)
+Log Producao Fabrica: Veiculo[id=139, cor=Vermelho, tipo=SUV, estacao=1, funcionario=3, pos=18]
+Log Producao Fabrica: Veiculo[id=140, cor=Verde, tipo=Sedan, estacao=1, funcionario=5, pos=19]
+Log Venda Fabrica: Veiculo[id=140, cor=Verde, tipo=Sedan, estacao=1, funcionario=5, pos=19] -> Loja 1 (pos=7)
+Log Producao Fabrica: Veiculo[id=141, cor=Azul, tipo=SUV, estacao=1, funcionario=1, pos=20]
+Log Venda Fabrica: Veiculo[id=141, cor=Azul, tipo=SUV, estacao=1, funcionario=1, pos=20] -> Loja 2 (pos=8)
+Log Producao Fabrica: Veiculo[id=142, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=2, pos=21]
+Log Venda Fabrica: Veiculo[id=142, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=2, pos=21] -> Loja 3 (pos=4)
+Log Producao Fabrica: Veiculo[id=143, cor=Verde, tipo=SUV, estacao=4, funcionario=4, pos=22]
+Log Venda Fabrica: Veiculo[id=143, cor=Verde, tipo=SUV, estacao=4, funcionario=4, pos=22] -> Loja 1 (pos=8)
+Log Producao Fabrica: Veiculo[id=144, cor=Azul, tipo=Sedan, estacao=4, funcionario=1, pos=23]
+Log Venda Fabrica: Veiculo[id=144, cor=Azul, tipo=Sedan, estacao=4, funcionario=1, pos=23] -> Loja 2 (pos=9)
+Log Venda Fabrica: Veiculo[id=145, cor=Vermelho, tipo=SUV, estacao=2, funcionario=1, pos=24] -> Loja 3 (pos=5)
+Log Producao Fabrica: Veiculo[id=145, cor=Vermelho, tipo=SUV, estacao=2, funcionario=1, pos=24]
+Log Producao Fabrica: Veiculo[id=146, cor=Verde, tipo=Sedan, estacao=2, funcionario=4, pos=25]
+Log Venda Fabrica: Veiculo[id=146, cor=Verde, tipo=Sedan, estacao=2, funcionario=4, pos=25] -> Loja 1 (pos=9)
+Log Producao Fabrica: Veiculo[id=147, cor=Azul, tipo=SUV, estacao=3, funcionario=1, pos=26]
+Log Venda Fabrica: Veiculo[id=147, cor=Azul, tipo=SUV, estacao=3, funcionario=1, pos=26] -> Loja 2 (pos=10)
+Log Producao Fabrica: Veiculo[id=148, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=5, pos=27]
+Log Venda Fabrica: Veiculo[id=148, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=5, pos=27] -> Loja 3 (pos=6)
+Log Venda Fabrica: Veiculo[id=149, cor=Verde, tipo=SUV, estacao=4, funcionario=2, pos=28] -> Loja 1 (pos=10)
+Log Producao Fabrica: Veiculo[id=149, cor=Verde, tipo=SUV, estacao=4, funcionario=2, pos=28]
+Log Producao Fabrica: Veiculo[id=150, cor=Azul, tipo=Sedan, estacao=2, funcionario=5, pos=29]
+Log Venda Fabrica: Veiculo[id=150, cor=Azul, tipo=Sedan, estacao=2, funcionario=5, pos=29] -> Loja 2 (pos=11)
+Log Producao Fabrica: Veiculo[id=151, cor=Vermelho, tipo=SUV, estacao=3, funcionario=4, pos=30]
+Log Venda Fabrica: Veiculo[id=151, cor=Vermelho, tipo=SUV, estacao=3, funcionario=4, pos=30] -> Loja 3 (pos=7)
+Log Producao Fabrica: Veiculo[id=152, cor=Verde, tipo=Sedan, estacao=3, funcionario=2, pos=31]
+Log Venda Fabrica: Veiculo[id=152, cor=Verde, tipo=Sedan, estacao=3, funcionario=2, pos=31] -> Loja 1 (pos=11)
+Log Producao Fabrica: Veiculo[id=153, cor=Azul, tipo=SUV, estacao=1, funcionario=4, pos=32]
+Log Venda Fabrica: Veiculo[id=153, cor=Azul, tipo=SUV, estacao=1, funcionario=4, pos=32] -> Loja 2 (pos=12)
+Log Producao Fabrica: Veiculo[id=154, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=2, pos=33]
+Log Producao Fabrica: Veiculo[id=155, cor=Verde, tipo=SUV, estacao=3, funcionario=5, pos=34]
+Log Venda Fabrica: Veiculo[id=154, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=2, pos=33] -> Loja 3 (pos=8)
+Log Venda Fabrica: Veiculo[id=155, cor=Verde, tipo=SUV, estacao=3, funcionario=5, pos=34] -> Loja 1 (pos=12)
+Log Producao Fabrica: Veiculo[id=156, cor=Azul, tipo=Sedan, estacao=4, funcionario=3, pos=35]
+Log Venda Fabrica: Veiculo[id=156, cor=Azul, tipo=Sedan, estacao=4, funcionario=3, pos=35] -> Loja 2 (pos=13)
+Log Producao Fabrica: Veiculo[id=157, cor=Vermelho, tipo=SUV, estacao=2, funcionario=3, pos=36]
+Log Venda Fabrica: Veiculo[id=157, cor=Vermelho, tipo=SUV, estacao=2, funcionario=3, pos=36] -> Loja 3 (pos=9)
+Log Producao Fabrica: Veiculo[id=158, cor=Verde, tipo=Sedan, estacao=3, funcionario=3, pos=37]
+Log Venda Fabrica: Veiculo[id=158, cor=Verde, tipo=Sedan, estacao=3, funcionario=3, pos=37] -> Loja 1 (pos=13)
+Log Producao Fabrica: Veiculo[id=159, cor=Azul, tipo=SUV, estacao=1, funcionario=3, pos=38]
+Log Venda Fabrica: Veiculo[id=159, cor=Azul, tipo=SUV, estacao=1, funcionario=3, pos=38] -> Loja 2 (pos=14)
+Log Producao Fabrica: Veiculo[id=160, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=5, pos=39]
+Log Venda Fabrica: Veiculo[id=160, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=5, pos=39] -> Loja 3 (pos=10)
+Log Producao Fabrica: Veiculo[id=161, cor=Verde, tipo=SUV, estacao=1, funcionario=1, pos=0]
+Log Venda Fabrica: Veiculo[id=161, cor=Verde, tipo=SUV, estacao=1, funcionario=1, pos=0] -> Loja 1 (pos=14)
+Log Producao Fabrica: Veiculo[id=162, cor=Azul, tipo=Sedan, estacao=1, funcionario=2, pos=1]
+Log Venda Fabrica: Veiculo[id=162, cor=Azul, tipo=Sedan, estacao=1, funcionario=2, pos=1] -> Loja 2 (pos=15)
+Log Producao Fabrica: Veiculo[id=163, cor=Vermelho, tipo=SUV, estacao=4, funcionario=4, pos=2]
+Log Venda Fabrica: Veiculo[id=163, cor=Vermelho, tipo=SUV, estacao=4, funcionario=4, pos=2] -> Loja 3 (pos=11)
+Log Venda Fabrica: Veiculo[id=164, cor=Verde, tipo=Sedan, estacao=4, funcionario=1, pos=3] -> Loja 1 (pos=15)
+Log Producao Fabrica: Veiculo[id=164, cor=Verde, tipo=Sedan, estacao=4, funcionario=1, pos=3]
+Log Venda Fabrica: Veiculo[id=165, cor=Azul, tipo=SUV, estacao=2, funcionario=1, pos=4] -> Loja 2 (pos=16)
+Log Producao Fabrica: Veiculo[id=165, cor=Azul, tipo=SUV, estacao=2, funcionario=1, pos=4]
+Log Producao Fabrica: Veiculo[id=166, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=4, pos=5]
+Log Venda Fabrica: Veiculo[id=166, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=4, pos=5] -> Loja 3 (pos=12)
+Log Producao Fabrica: Veiculo[id=167, cor=Verde, tipo=SUV, estacao=3, funcionario=1, pos=6]
+Log Venda Fabrica: Veiculo[id=167, cor=Verde, tipo=SUV, estacao=3, funcionario=1, pos=6] -> Loja 1 (pos=16)
+Log Producao Fabrica: Veiculo[id=168, cor=Azul, tipo=Sedan, estacao=4, funcionario=5, pos=7]
+Log Venda Fabrica: Veiculo[id=168, cor=Azul, tipo=Sedan, estacao=4, funcionario=5, pos=7] -> Loja 2 (pos=17)
+Log Venda Fabrica: Veiculo[id=169, cor=Vermelho, tipo=SUV, estacao=2, funcionario=5, pos=8] -> Loja 3 (pos=13)
+Log Producao Fabrica: Veiculo[id=170, cor=Verde, tipo=Sedan, estacao=4, funcionario=2, pos=9]
+Log Producao Fabrica: Veiculo[id=169, cor=Vermelho, tipo=SUV, estacao=2, funcionario=5, pos=8]
+Log Venda Fabrica: Veiculo[id=170, cor=Verde, tipo=Sedan, estacao=4, funcionario=2, pos=9] -> Loja 3 (pos=14)
+Log Producao Fabrica: Veiculo[id=171, cor=Azul, tipo=SUV, estacao=3, funcionario=4, pos=10]
+Log Venda Fabrica: Veiculo[id=171, cor=Azul, tipo=SUV, estacao=3, funcionario=4, pos=10] -> Loja 2 (pos=18)
+Log Producao Fabrica: Veiculo[id=172, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=2, pos=11]
+Log Venda Fabrica: Veiculo[id=172, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=2, pos=11] -> Loja 1 (pos=17)
+Log Producao Fabrica: Veiculo[id=173, cor=Verde, tipo=SUV, estacao=1, funcionario=4, pos=12]
+Log Venda Fabrica: Veiculo[id=173, cor=Verde, tipo=SUV, estacao=1, funcionario=4, pos=12] -> Loja 3 (pos=15)
+Log Venda Fabrica: Veiculo[id=175, cor=Vermelho, tipo=SUV, estacao=3, funcionario=5, pos=14] -> Loja 1 (pos=18)
+Log Producao Fabrica: Veiculo[id=175, cor=Vermelho, tipo=SUV, estacao=3, funcionario=5, pos=14]
+Log Venda Fabrica: Veiculo[id=174, cor=Azul, tipo=Sedan, estacao=2, funcionario=2, pos=13] -> Loja 2 (pos=19)
+Log Venda Fabrica: Veiculo[id=176, cor=Verde, tipo=Sedan, estacao=4, funcionario=3, pos=15] -> Loja 2 (pos=20)
+Log Producao Fabrica: Veiculo[id=174, cor=Azul, tipo=Sedan, estacao=2, funcionario=2, pos=13]
+Log Producao Fabrica: Veiculo[id=176, cor=Verde, tipo=Sedan, estacao=4, funcionario=3, pos=15]
+Log Producao Fabrica: Veiculo[id=177, cor=Azul, tipo=SUV, estacao=2, funcionario=3, pos=16]
+Log Venda Fabrica: Veiculo[id=177, cor=Azul, tipo=SUV, estacao=2, funcionario=3, pos=16] -> Loja 1 (pos=19)
+Log Producao Fabrica: Veiculo[id=178, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=3, pos=17]
+Log Venda Fabrica: Veiculo[id=178, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=3, pos=17] -> Loja 3 (pos=16)
+Log Producao Fabrica: Veiculo[id=179, cor=Verde, tipo=SUV, estacao=1, funcionario=3, pos=18]
+Log Venda Fabrica: Veiculo[id=179, cor=Verde, tipo=SUV, estacao=1, funcionario=3, pos=18] -> Loja 2 (pos=21)
+Log Producao Fabrica: Veiculo[id=180, cor=Azul, tipo=Sedan, estacao=1, funcionario=5, pos=19]
+Log Venda Fabrica: Veiculo[id=180, cor=Azul, tipo=Sedan, estacao=1, funcionario=5, pos=19] -> Loja 1 (pos=20)
+Log Producao Fabrica: Veiculo[id=181, cor=Vermelho, tipo=SUV, estacao=1, funcionario=1, pos=20]
+Log Venda Fabrica: Veiculo[id=181, cor=Vermelho, tipo=SUV, estacao=1, funcionario=1, pos=20] -> Loja 3 (pos=17)
+Log Producao Fabrica: Veiculo[id=182, cor=Verde, tipo=Sedan, estacao=1, funcionario=2, pos=21]
+Log Venda Fabrica: Veiculo[id=182, cor=Verde, tipo=Sedan, estacao=1, funcionario=2, pos=21] -> Loja 2 (pos=22)
+Log Producao Fabrica: Veiculo[id=183, cor=Azul, tipo=SUV, estacao=4, funcionario=4, pos=22]
+Log Venda Fabrica: Veiculo[id=183, cor=Azul, tipo=SUV, estacao=4, funcionario=4, pos=22] -> Loja 1 (pos=21)
+Log Producao Fabrica: Veiculo[id=184, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=1, pos=23]
+Log Venda Fabrica: Veiculo[id=184, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=1, pos=23] -> Loja 3 (pos=18)
+Log Producao Fabrica: Veiculo[id=185, cor=Verde, tipo=SUV, estacao=2, funcionario=1, pos=24]
+Log Venda Fabrica: Veiculo[id=185, cor=Verde, tipo=SUV, estacao=2, funcionario=1, pos=24] -> Loja 2 (pos=23)
+Log Venda Fabrica: Veiculo[id=186, cor=Azul, tipo=Sedan, estacao=2, funcionario=4, pos=25] -> Loja 2 (pos=24)
+Log Producao Fabrica: Veiculo[id=186, cor=Azul, tipo=Sedan, estacao=2, funcionario=4, pos=25]
+Log Producao Fabrica: Veiculo[id=187, cor=Vermelho, tipo=SUV, estacao=3, funcionario=1, pos=26]
+Log Venda Fabrica: Veiculo[id=187, cor=Vermelho, tipo=SUV, estacao=3, funcionario=1, pos=26] -> Loja 3 (pos=19)
+Log Producao Fabrica: Veiculo[id=188, cor=Verde, tipo=Sedan, estacao=4, funcionario=5, pos=27]
+Log Venda Fabrica: Veiculo[id=188, cor=Verde, tipo=Sedan, estacao=4, funcionario=5, pos=27] -> Loja 1 (pos=22)
+Log Producao Fabrica: Veiculo[id=189, cor=Azul, tipo=SUV, estacao=4, funcionario=2, pos=28]
+Log Venda Fabrica: Veiculo[id=189, cor=Azul, tipo=SUV, estacao=4, funcionario=2, pos=28] -> Loja 2 (pos=25)
+Log Venda Fabrica: Veiculo[id=190, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=5, pos=29] -> Loja 3 (pos=20)
+Log Producao Fabrica: Veiculo[id=190, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=5, pos=29]
+Log Producao Fabrica: Veiculo[id=191, cor=Verde, tipo=SUV, estacao=3, funcionario=4, pos=30]
+Log Venda Fabrica: Veiculo[id=191, cor=Verde, tipo=SUV, estacao=3, funcionario=4, pos=30] -> Loja 1 (pos=23)
+Log Producao Fabrica: Veiculo[id=192, cor=Azul, tipo=Sedan, estacao=3, funcionario=2, pos=31]
+Log Venda Fabrica: Veiculo[id=192, cor=Azul, tipo=Sedan, estacao=3, funcionario=2, pos=31] -> Loja 2 (pos=26)
+Log Producao Fabrica: Veiculo[id=193, cor=Vermelho, tipo=SUV, estacao=1, funcionario=4, pos=32]
+Log Venda Fabrica: Veiculo[id=193, cor=Vermelho, tipo=SUV, estacao=1, funcionario=4, pos=32] -> Loja 3 (pos=21)
+Log Venda Fabrica: Veiculo[id=194, cor=Verde, tipo=Sedan, estacao=3, funcionario=5, pos=33] -> Loja 1 (pos=24)
+Log Venda Fabrica: Veiculo[id=196, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=3, pos=35] -> Loja 1 (pos=25)
+Log Producao Fabrica: Veiculo[id=194, cor=Verde, tipo=Sedan, estacao=3, funcionario=5, pos=33]
+Log Producao Fabrica: Veiculo[id=196, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=3, pos=35]
+Log Venda Fabrica: Veiculo[id=195, cor=Azul, tipo=SUV, estacao=2, funcionario=2, pos=34] -> Loja 2 (pos=27)
+Log Producao Fabrica: Veiculo[id=195, cor=Azul, tipo=SUV, estacao=2, funcionario=2, pos=34]
+Log Producao Fabrica: Veiculo[id=197, cor=Verde, tipo=SUV, estacao=2, funcionario=3, pos=36]
+Log Venda Fabrica: Veiculo[id=197, cor=Verde, tipo=SUV, estacao=2, funcionario=3, pos=36] -> Loja 3 (pos=22)
+Log Producao Fabrica: Veiculo[id=198, cor=Azul, tipo=Sedan, estacao=3, funcionario=3, pos=37]
+Log Venda Fabrica: Veiculo[id=198, cor=Azul, tipo=Sedan, estacao=3, funcionario=3, pos=37] -> Loja 1 (pos=26)
+Log Producao Fabrica: Veiculo[id=199, cor=Vermelho, tipo=SUV, estacao=1, funcionario=3, pos=38]
+Log Venda Fabrica: Veiculo[id=199, cor=Vermelho, tipo=SUV, estacao=1, funcionario=3, pos=38] -> Loja 2 (pos=28)
+Log Producao Fabrica: Veiculo[id=200, cor=Verde, tipo=Sedan, estacao=1, funcionario=5, pos=39]
+Log Venda Fabrica: Veiculo[id=200, cor=Verde, tipo=Sedan, estacao=1, funcionario=5, pos=39] -> Loja 3 (pos=23)
+Log Producao Fabrica: Veiculo[id=201, cor=Azul, tipo=SUV, estacao=1, funcionario=1, pos=0]
+Log Venda Fabrica: Veiculo[id=201, cor=Azul, tipo=SUV, estacao=1, funcionario=1, pos=0] -> Loja 1 (pos=27)
+Log Producao Fabrica: Veiculo[id=202, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=2, pos=1]
+Log Venda Fabrica: Veiculo[id=202, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=2, pos=1] -> Loja 2 (pos=29)
+Log Producao Fabrica: Veiculo[id=203, cor=Verde, tipo=SUV, estacao=4, funcionario=4, pos=2]
+Log Venda Fabrica: Veiculo[id=203, cor=Verde, tipo=SUV, estacao=4, funcionario=4, pos=2] -> Loja 3 (pos=24)
+Log Producao Fabrica: Veiculo[id=204, cor=Azul, tipo=Sedan, estacao=4, funcionario=1, pos=3]
+Log Venda Fabrica: Veiculo[id=204, cor=Azul, tipo=Sedan, estacao=4, funcionario=1, pos=3] -> Loja 1 (pos=28)
+Log Producao Fabrica: Veiculo[id=205, cor=Vermelho, tipo=SUV, estacao=2, funcionario=1, pos=4]
+Log Venda Fabrica: Veiculo[id=205, cor=Vermelho, tipo=SUV, estacao=2, funcionario=1, pos=4] -> Loja 2 (pos=30)
+Log Producao Fabrica: Veiculo[id=206, cor=Verde, tipo=Sedan, estacao=2, funcionario=4, pos=5]
+Log Venda Fabrica: Veiculo[id=206, cor=Verde, tipo=Sedan, estacao=2, funcionario=4, pos=5] -> Loja 3 (pos=25)
+Log Venda Fabrica: Veiculo[id=207, cor=Azul, tipo=SUV, estacao=3, funcionario=1, pos=6] -> Loja 1 (pos=29)
+Log Producao Fabrica: Veiculo[id=207, cor=Azul, tipo=SUV, estacao=3, funcionario=1, pos=6]
+Log Producao Fabrica: Veiculo[id=208, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=5, pos=7]
+Log Venda Fabrica: Veiculo[id=208, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=5, pos=7] -> Loja 2 (pos=31)
+Log Producao Fabrica: Veiculo[id=209, cor=Verde, tipo=SUV, estacao=4, funcionario=2, pos=8]
+Log Venda Fabrica: Veiculo[id=209, cor=Verde, tipo=SUV, estacao=4, funcionario=2, pos=8] -> Loja 3 (pos=26)
+Log Venda Fabrica: Veiculo[id=210, cor=Azul, tipo=Sedan, estacao=2, funcionario=5, pos=9] -> Loja 1 (pos=30)
+Log Producao Fabrica: Veiculo[id=210, cor=Azul, tipo=Sedan, estacao=2, funcionario=5, pos=9]
+Log Producao Fabrica: Veiculo[id=211, cor=Vermelho, tipo=SUV, estacao=3, funcionario=4, pos=10]
+Log Venda Fabrica: Veiculo[id=211, cor=Vermelho, tipo=SUV, estacao=3, funcionario=4, pos=10] -> Loja 2 (pos=32)
+Log Producao Fabrica: Veiculo[id=212, cor=Verde, tipo=Sedan, estacao=3, funcionario=2, pos=11]
+Log Venda Fabrica: Veiculo[id=212, cor=Verde, tipo=Sedan, estacao=3, funcionario=2, pos=11] -> Loja 3 (pos=27)
+Log Producao Fabrica: Veiculo[id=213, cor=Azul, tipo=SUV, estacao=1, funcionario=4, pos=12]
+Log Venda Fabrica: Veiculo[id=213, cor=Azul, tipo=SUV, estacao=1, funcionario=4, pos=12] -> Loja 1 (pos=31)
+Log Producao Fabrica: Veiculo[id=214, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=5, pos=13]
+Log Venda Fabrica: Veiculo[id=214, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=5, pos=13] -> Loja 2 (pos=33)
+Log Producao Fabrica: Veiculo[id=215, cor=Verde, tipo=SUV, estacao=4, funcionario=3, pos=14]
+Log Venda Fabrica: Veiculo[id=215, cor=Verde, tipo=SUV, estacao=4, funcionario=3, pos=14] -> Loja 3 (pos=28)
+Log Producao Fabrica: Veiculo[id=216, cor=Azul, tipo=Sedan, estacao=2, funcionario=2, pos=15]
+Log Venda Fabrica: Veiculo[id=216, cor=Azul, tipo=Sedan, estacao=2, funcionario=2, pos=15] -> Loja 1 (pos=32)
+Log Venda Fabrica: Veiculo[id=217, cor=Vermelho, tipo=SUV, estacao=2, funcionario=3, pos=16] -> Loja 2 (pos=34)
+Log Producao Fabrica: Veiculo[id=217, cor=Vermelho, tipo=SUV, estacao=2, funcionario=3, pos=16]
+Log Producao Fabrica: Veiculo[id=218, cor=Verde, tipo=Sedan, estacao=3, funcionario=3, pos=17]
+Log Venda Fabrica: Veiculo[id=218, cor=Verde, tipo=Sedan, estacao=3, funcionario=3, pos=17] -> Loja 3 (pos=29)
+Log Producao Fabrica: Veiculo[id=219, cor=Azul, tipo=SUV, estacao=1, funcionario=3, pos=18]
+Log Venda Fabrica: Veiculo[id=219, cor=Azul, tipo=SUV, estacao=1, funcionario=3, pos=18] -> Loja 1 (pos=33)
+Log Producao Fabrica: Veiculo[id=220, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=5, pos=19]
+Log Venda Fabrica: Veiculo[id=220, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=5, pos=19] -> Loja 2 (pos=35)
+Log Producao Fabrica: Veiculo[id=221, cor=Verde, tipo=SUV, estacao=1, funcionario=1, pos=20]
+Log Venda Fabrica: Veiculo[id=221, cor=Verde, tipo=SUV, estacao=1, funcionario=1, pos=20] -> Loja 3 (pos=30)
+Log Producao Fabrica: Veiculo[id=222, cor=Azul, tipo=Sedan, estacao=1, funcionario=2, pos=21]
+Log Venda Fabrica: Veiculo[id=222, cor=Azul, tipo=Sedan, estacao=1, funcionario=2, pos=21] -> Loja 1 (pos=34)
+Log Producao Fabrica: Veiculo[id=223, cor=Vermelho, tipo=SUV, estacao=4, funcionario=4, pos=22]
+Log Venda Fabrica: Veiculo[id=223, cor=Vermelho, tipo=SUV, estacao=4, funcionario=4, pos=22] -> Loja 2 (pos=36)
+Log Producao Fabrica: Veiculo[id=224, cor=Verde, tipo=Sedan, estacao=4, funcionario=1, pos=23]
+Log Venda Fabrica: Veiculo[id=224, cor=Verde, tipo=Sedan, estacao=4, funcionario=1, pos=23] -> Loja 3 (pos=31)
+Log Producao Fabrica: Veiculo[id=225, cor=Azul, tipo=SUV, estacao=2, funcionario=1, pos=24]
+Log Venda Fabrica: Veiculo[id=225, cor=Azul, tipo=SUV, estacao=2, funcionario=1, pos=24] -> Loja 1 (pos=35)
+Log Producao Fabrica: Veiculo[id=226, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=4, pos=25]
+Log Venda Fabrica: Veiculo[id=226, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=4, pos=25] -> Loja 2 (pos=37)
+Log Producao Fabrica: Veiculo[id=227, cor=Verde, tipo=SUV, estacao=3, funcionario=1, pos=26]
+Log Venda Fabrica: Veiculo[id=227, cor=Verde, tipo=SUV, estacao=3, funcionario=1, pos=26] -> Loja 3 (pos=32)
+Log Producao Fabrica: Veiculo[id=228, cor=Azul, tipo=Sedan, estacao=4, funcionario=5, pos=27]
+Log Venda Fabrica: Veiculo[id=228, cor=Azul, tipo=Sedan, estacao=4, funcionario=5, pos=27] -> Loja 1 (pos=36)
+Log Producao Fabrica: Veiculo[id=229, cor=Vermelho, tipo=SUV, estacao=4, funcionario=2, pos=28]
+Log Venda Fabrica: Veiculo[id=229, cor=Vermelho, tipo=SUV, estacao=4, funcionario=2, pos=28] -> Loja 2 (pos=38)
+Log Producao Fabrica: Veiculo[id=230, cor=Verde, tipo=Sedan, estacao=2, funcionario=5, pos=29]
+Log Venda Fabrica: Veiculo[id=231, cor=Azul, tipo=SUV, estacao=3, funcionario=4, pos=30] -> Loja 1 (pos=37)
+Log Producao Fabrica: Veiculo[id=231, cor=Azul, tipo=SUV, estacao=3, funcionario=4, pos=30]
+Log Venda Fabrica: Veiculo[id=230, cor=Verde, tipo=Sedan, estacao=2, funcionario=5, pos=29] -> Loja 3 (pos=33)
+Log Venda Fabrica: Veiculo[id=233, cor=Verde, tipo=SUV, estacao=1, funcionario=4, pos=32] -> Loja 1 (pos=38)
+Log Producao Fabrica: Veiculo[id=232, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=2, pos=31]
+Log Venda Fabrica: Veiculo[id=232, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=2, pos=31] -> Loja 2 (pos=39)
+Log Producao Fabrica: Veiculo[id=233, cor=Verde, tipo=SUV, estacao=1, funcionario=4, pos=32]
+Log Producao Fabrica: Veiculo[id=234, cor=Azul, tipo=Sedan, estacao=3, funcionario=5, pos=33]
+Log Venda Fabrica: Veiculo[id=234, cor=Azul, tipo=Sedan, estacao=3, funcionario=5, pos=33] -> Loja 3 (pos=34)
+Log Venda Fabrica: Veiculo[id=235, cor=Vermelho, tipo=SUV, estacao=4, funcionario=3, pos=34] -> Loja 3 (pos=35)
+Log Producao Fabrica: Veiculo[id=235, cor=Vermelho, tipo=SUV, estacao=4, funcionario=3, pos=34]
+Log Producao Fabrica: Veiculo[id=236, cor=Verde, tipo=Sedan, estacao=2, funcionario=2, pos=35]
+Log Venda Fabrica: Veiculo[id=236, cor=Verde, tipo=Sedan, estacao=2, funcionario=2, pos=35] -> Loja 2 (pos=0)
+Log Producao Fabrica: Veiculo[id=237, cor=Azul, tipo=SUV, estacao=2, funcionario=3, pos=36]
+Log Venda Fabrica: Veiculo[id=237, cor=Azul, tipo=SUV, estacao=2, funcionario=3, pos=36] -> Loja 3 (pos=36)
+Log Producao Fabrica: Veiculo[id=238, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=3, pos=37]
+Log Venda Fabrica: Veiculo[id=238, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=3, pos=37] -> Loja 1 (pos=39)
+Log Producao Fabrica: Veiculo[id=239, cor=Verde, tipo=SUV, estacao=1, funcionario=3, pos=38]
+Log Venda Fabrica: Veiculo[id=239, cor=Verde, tipo=SUV, estacao=1, funcionario=3, pos=38] -> Loja 2 (pos=1)
+Log Producao Fabrica: Veiculo[id=240, cor=Azul, tipo=Sedan, estacao=1, funcionario=5, pos=39]
+Log Venda Fabrica: Veiculo[id=240, cor=Azul, tipo=Sedan, estacao=1, funcionario=5, pos=39] -> Loja 3 (pos=37)
+Log Producao Fabrica: Veiculo[id=241, cor=Vermelho, tipo=SUV, estacao=1, funcionario=1, pos=0]
+Log Venda Fabrica: Veiculo[id=241, cor=Vermelho, tipo=SUV, estacao=1, funcionario=1, pos=0] -> Loja 1 (pos=0)
+Log Producao Fabrica: Veiculo[id=242, cor=Verde, tipo=Sedan, estacao=1, funcionario=2, pos=1]
+Log Venda Fabrica: Veiculo[id=242, cor=Verde, tipo=Sedan, estacao=1, funcionario=2, pos=1] -> Loja 2 (pos=2)
+Log Producao Fabrica: Veiculo[id=243, cor=Azul, tipo=SUV, estacao=4, funcionario=4, pos=2]
+Log Venda Fabrica: Veiculo[id=243, cor=Azul, tipo=SUV, estacao=4, funcionario=4, pos=2] -> Loja 3 (pos=38)
+Log Producao Fabrica: Veiculo[id=244, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=1, pos=3]
+Log Venda Fabrica: Veiculo[id=244, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=1, pos=3] -> Loja 1 (pos=1)
+Log Producao Fabrica: Veiculo[id=245, cor=Verde, tipo=SUV, estacao=2, funcionario=1, pos=4]
+Log Venda Fabrica: Veiculo[id=245, cor=Verde, tipo=SUV, estacao=2, funcionario=1, pos=4] -> Loja 2 (pos=3)
+Log Producao Fabrica: Veiculo[id=246, cor=Azul, tipo=Sedan, estacao=2, funcionario=4, pos=5]
+Log Venda Fabrica: Veiculo[id=246, cor=Azul, tipo=Sedan, estacao=2, funcionario=4, pos=5] -> Loja 3 (pos=39)
+Log Producao Fabrica: Veiculo[id=247, cor=Vermelho, tipo=SUV, estacao=3, funcionario=1, pos=6]
+Log Venda Fabrica: Veiculo[id=247, cor=Vermelho, tipo=SUV, estacao=3, funcionario=1, pos=6] -> Loja 1 (pos=2)
+Log Producao Fabrica: Veiculo[id=248, cor=Verde, tipo=Sedan, estacao=4, funcionario=5, pos=7]
+Log Venda Fabrica: Veiculo[id=248, cor=Verde, tipo=Sedan, estacao=4, funcionario=5, pos=7] -> Loja 2 (pos=4)
+Log Producao Fabrica: Veiculo[id=249, cor=Azul, tipo=SUV, estacao=4, funcionario=2, pos=8]
+Log Venda Fabrica: Veiculo[id=249, cor=Azul, tipo=SUV, estacao=4, funcionario=2, pos=8] -> Loja 3 (pos=0)
+Log Producao Fabrica: Veiculo[id=250, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=5, pos=9]
+Log Venda Fabrica: Veiculo[id=251, cor=Verde, tipo=SUV, estacao=3, funcionario=4, pos=10] -> Loja 2 (pos=5)
+Log Producao Fabrica: Veiculo[id=251, cor=Verde, tipo=SUV, estacao=3, funcionario=4, pos=10]
+Log Venda Fabrica: Veiculo[id=250, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=5, pos=9] -> Loja 1 (pos=3)
+Log Producao Fabrica: Veiculo[id=252, cor=Azul, tipo=Sedan, estacao=3, funcionario=2, pos=11]
+Log Producao Fabrica: Veiculo[id=253, cor=Vermelho, tipo=SUV, estacao=1, funcionario=4, pos=12]
+Log Venda Fabrica: Veiculo[id=252, cor=Azul, tipo=Sedan, estacao=3, funcionario=2, pos=11] -> Loja 3 (pos=1)
+Log Venda Fabrica: Veiculo[id=253, cor=Vermelho, tipo=SUV, estacao=1, funcionario=4, pos=12] -> Loja 2 (pos=6)
+Log Venda Fabrica: Veiculo[id=254, cor=Verde, tipo=Sedan, estacao=3, funcionario=5, pos=13] -> Loja 1 (pos=4)
+Log Producao Fabrica: Veiculo[id=254, cor=Verde, tipo=Sedan, estacao=3, funcionario=5, pos=13]
+Log Producao Fabrica: Veiculo[id=255, cor=Azul, tipo=SUV, estacao=4, funcionario=3, pos=14]
+Log Venda Fabrica: Veiculo[id=256, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=2, pos=15] -> Loja 2 (pos=7)
+Log Producao Fabrica: Veiculo[id=256, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=2, pos=15]
+Log Producao Fabrica: Veiculo[id=257, cor=Verde, tipo=SUV, estacao=2, funcionario=3, pos=16]
+Log Producao Fabrica: Veiculo[id=258, cor=Azul, tipo=Sedan, estacao=3, funcionario=3, pos=17]
+Log Venda Fabrica: Veiculo[id=255, cor=Azul, tipo=SUV, estacao=4, funcionario=3, pos=14] -> Loja 3 (pos=2)
+Log Venda Fabrica: Veiculo[id=258, cor=Azul, tipo=Sedan, estacao=3, funcionario=3, pos=17] -> Loja 2 (pos=8)
+Log Venda Fabrica: Veiculo[id=257, cor=Verde, tipo=SUV, estacao=2, funcionario=3, pos=16] -> Loja 1 (pos=5)
+Log Producao Fabrica: Veiculo[id=259, cor=Vermelho, tipo=SUV, estacao=1, funcionario=5, pos=18]
+Log Venda Fabrica: Veiculo[id=259, cor=Vermelho, tipo=SUV, estacao=1, funcionario=5, pos=18] -> Loja 3 (pos=3)
+Log Producao Fabrica: Veiculo[id=260, cor=Verde, tipo=Sedan, estacao=1, funcionario=3, pos=19]
+Log Venda Fabrica: Veiculo[id=260, cor=Verde, tipo=Sedan, estacao=1, funcionario=3, pos=19] -> Loja 2 (pos=9)
+Log Producao Fabrica: Veiculo[id=261, cor=Azul, tipo=SUV, estacao=1, funcionario=1, pos=20]
+Log Venda Fabrica: Veiculo[id=261, cor=Azul, tipo=SUV, estacao=1, funcionario=1, pos=20] -> Loja 1 (pos=6)
+Log Producao Fabrica: Veiculo[id=262, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=2, pos=21]
+Log Venda Fabrica: Veiculo[id=262, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=2, pos=21] -> Loja 3 (pos=4)
+Log Producao Fabrica: Veiculo[id=263, cor=Verde, tipo=SUV, estacao=4, funcionario=4, pos=22]
+Log Venda Fabrica: Veiculo[id=263, cor=Verde, tipo=SUV, estacao=4, funcionario=4, pos=22] -> Loja 2 (pos=10)
+Log Producao Fabrica: Veiculo[id=264, cor=Azul, tipo=Sedan, estacao=4, funcionario=1, pos=23]
+Log Venda Fabrica: Veiculo[id=264, cor=Azul, tipo=Sedan, estacao=4, funcionario=1, pos=23] -> Loja 1 (pos=7)
+Log Producao Fabrica: Veiculo[id=265, cor=Vermelho, tipo=SUV, estacao=2, funcionario=1, pos=24]
+Log Venda Fabrica: Veiculo[id=265, cor=Vermelho, tipo=SUV, estacao=2, funcionario=1, pos=24] -> Loja 3 (pos=5)
+Log Producao Fabrica: Veiculo[id=266, cor=Verde, tipo=Sedan, estacao=2, funcionario=4, pos=25]
+Log Venda Fabrica: Veiculo[id=266, cor=Verde, tipo=Sedan, estacao=2, funcionario=4, pos=25] -> Loja 2 (pos=11)
+Log Producao Fabrica: Veiculo[id=267, cor=Azul, tipo=SUV, estacao=3, funcionario=1, pos=26]
+Log Venda Fabrica: Veiculo[id=267, cor=Azul, tipo=SUV, estacao=3, funcionario=1, pos=26] -> Loja 1 (pos=8)
+Log Producao Fabrica: Veiculo[id=268, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=5, pos=27]
+Log Venda Fabrica: Veiculo[id=268, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=5, pos=27] -> Loja 3 (pos=6)
+Log Venda Fabrica: Veiculo[id=269, cor=Verde, tipo=SUV, estacao=4, funcionario=2, pos=28] -> Loja 2 (pos=12)
+Log Producao Fabrica: Veiculo[id=269, cor=Verde, tipo=SUV, estacao=4, funcionario=2, pos=28]
+Log Producao Fabrica: Veiculo[id=270, cor=Azul, tipo=Sedan, estacao=2, funcionario=5, pos=29]
+Log Venda Fabrica: Veiculo[id=270, cor=Azul, tipo=Sedan, estacao=2, funcionario=5, pos=29] -> Loja 1 (pos=9)
+Log Venda Fabrica: Veiculo[id=271, cor=Vermelho, tipo=SUV, estacao=3, funcionario=4, pos=30] -> Loja 1 (pos=10)
+Log Producao Fabrica: Veiculo[id=271, cor=Vermelho, tipo=SUV, estacao=3, funcionario=4, pos=30]
+Log Producao Fabrica: Veiculo[id=272, cor=Verde, tipo=Sedan, estacao=3, funcionario=2, pos=31]
+Log Venda Fabrica: Veiculo[id=272, cor=Verde, tipo=Sedan, estacao=3, funcionario=2, pos=31] -> Loja 2 (pos=13)
+Log Producao Fabrica: Veiculo[id=273, cor=Azul, tipo=SUV, estacao=1, funcionario=4, pos=32]
+Log Venda Fabrica: Veiculo[id=273, cor=Azul, tipo=SUV, estacao=1, funcionario=4, pos=32] -> Loja 3 (pos=7)
+Log Producao Fabrica: Veiculo[id=274, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=5, pos=33]
+Log Producao Fabrica: Veiculo[id=275, cor=Verde, tipo=SUV, estacao=4, funcionario=3, pos=34]
+Log Venda Fabrica: Veiculo[id=274, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=5, pos=33] -> Loja 1 (pos=11)
+Log Venda Fabrica: Veiculo[id=275, cor=Verde, tipo=SUV, estacao=4, funcionario=3, pos=34] -> Loja 2 (pos=14)
+Log Venda Fabrica: Veiculo[id=276, cor=Azul, tipo=Sedan, estacao=2, funcionario=2, pos=35] -> Loja 3 (pos=8)
+Log Producao Fabrica: Veiculo[id=276, cor=Azul, tipo=Sedan, estacao=2, funcionario=2, pos=35]
+Log Producao Fabrica: Veiculo[id=277, cor=Vermelho, tipo=SUV, estacao=2, funcionario=3, pos=36]
+Log Venda Fabrica: Veiculo[id=277, cor=Vermelho, tipo=SUV, estacao=2, funcionario=3, pos=36] -> Loja 1 (pos=12)
+Log Producao Fabrica: Veiculo[id=278, cor=Verde, tipo=Sedan, estacao=3, funcionario=3, pos=37]
+Log Venda Fabrica: Veiculo[id=278, cor=Verde, tipo=Sedan, estacao=3, funcionario=3, pos=37] -> Loja 2 (pos=15)
+Log Producao Fabrica: Veiculo[id=279, cor=Azul, tipo=SUV, estacao=1, funcionario=5, pos=38]
+Log Venda Fabrica: Veiculo[id=279, cor=Azul, tipo=SUV, estacao=1, funcionario=5, pos=38] -> Loja 3 (pos=9)
+Log Venda Fabrica: Veiculo[id=280, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=3, pos=39] -> Loja 1 (pos=13)
+Log Producao Fabrica: Veiculo[id=280, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=3, pos=39]
+Log Producao Fabrica: Veiculo[id=281, cor=Verde, tipo=SUV, estacao=1, funcionario=1, pos=0]
+Log Venda Fabrica: Veiculo[id=281, cor=Verde, tipo=SUV, estacao=1, funcionario=1, pos=0] -> Loja 2 (pos=16)
+Log Producao Fabrica: Veiculo[id=282, cor=Azul, tipo=Sedan, estacao=1, funcionario=2, pos=1]
+Log Venda Fabrica: Veiculo[id=282, cor=Azul, tipo=Sedan, estacao=1, funcionario=2, pos=1] -> Loja 3 (pos=10)
+Log Producao Fabrica: Veiculo[id=283, cor=Vermelho, tipo=SUV, estacao=4, funcionario=4, pos=2]
+Log Venda Fabrica: Veiculo[id=283, cor=Vermelho, tipo=SUV, estacao=4, funcionario=4, pos=2] -> Loja 1 (pos=14)
+Log Producao Fabrica: Veiculo[id=284, cor=Verde, tipo=Sedan, estacao=4, funcionario=1, pos=3]
+Log Venda Fabrica: Veiculo[id=284, cor=Verde, tipo=Sedan, estacao=4, funcionario=1, pos=3] -> Loja 2 (pos=17)
+Log Producao Fabrica: Veiculo[id=285, cor=Azul, tipo=SUV, estacao=2, funcionario=1, pos=4]
+Log Venda Fabrica: Veiculo[id=285, cor=Azul, tipo=SUV, estacao=2, funcionario=1, pos=4] -> Loja 3 (pos=11)
+Log Producao Fabrica: Veiculo[id=286, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=4, pos=5]
+Log Venda Fabrica: Veiculo[id=286, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=4, pos=5] -> Loja 1 (pos=15)
+Log Producao Fabrica: Veiculo[id=287, cor=Verde, tipo=SUV, estacao=3, funcionario=1, pos=6]
+Log Venda Fabrica: Veiculo[id=287, cor=Verde, tipo=SUV, estacao=3, funcionario=1, pos=6] -> Loja 2 (pos=18)
+Log Producao Fabrica: Veiculo[id=288, cor=Azul, tipo=Sedan, estacao=4, funcionario=5, pos=7]
+Log Venda Fabrica: Veiculo[id=288, cor=Azul, tipo=Sedan, estacao=4, funcionario=5, pos=7] -> Loja 3 (pos=12)
+Log Producao Fabrica: Veiculo[id=289, cor=Vermelho, tipo=SUV, estacao=4, funcionario=2, pos=8]
+Log Venda Fabrica: Veiculo[id=289, cor=Vermelho, tipo=SUV, estacao=4, funcionario=2, pos=8] -> Loja 1 (pos=16)
+Log Producao Fabrica: Veiculo[id=290, cor=Verde, tipo=Sedan, estacao=2, funcionario=5, pos=9]
+Log Venda Fabrica: Veiculo[id=290, cor=Verde, tipo=Sedan, estacao=2, funcionario=5, pos=9] -> Loja 2 (pos=19)
+Log Producao Fabrica: Veiculo[id=291, cor=Azul, tipo=SUV, estacao=3, funcionario=4, pos=10]
+Log Venda Fabrica: Veiculo[id=291, cor=Azul, tipo=SUV, estacao=3, funcionario=4, pos=10] -> Loja 3 (pos=13)
+Log Producao Fabrica: Veiculo[id=292, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=2, pos=11]
+Log Producao Fabrica: Veiculo[id=293, cor=Verde, tipo=SUV, estacao=1, funcionario=4, pos=12]
+Log Venda Fabrica: Veiculo[id=292, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=2, pos=11] -> Loja 1 (pos=17)
+Log Venda Fabrica: Veiculo[id=293, cor=Verde, tipo=SUV, estacao=1, funcionario=4, pos=12] -> Loja 2 (pos=20)
+Log Producao Fabrica: Veiculo[id=294, cor=Azul, tipo=Sedan, estacao=3, funcionario=5, pos=13]
+Log Venda Fabrica: Veiculo[id=295, cor=Vermelho, tipo=SUV, estacao=4, funcionario=3, pos=14] -> Loja 1 (pos=18)
+Log Venda Fabrica: Veiculo[id=294, cor=Azul, tipo=Sedan, estacao=3, funcionario=5, pos=13] -> Loja 3 (pos=14)
+Log Producao Fabrica: Veiculo[id=295, cor=Vermelho, tipo=SUV, estacao=4, funcionario=3, pos=14]
+Log Producao Fabrica: Veiculo[id=296, cor=Verde, tipo=Sedan, estacao=2, funcionario=2, pos=15]
+Log Producao Fabrica: Veiculo[id=297, cor=Azul, tipo=SUV, estacao=2, funcionario=3, pos=16]
+Log Venda Fabrica: Veiculo[id=297, cor=Azul, tipo=SUV, estacao=2, funcionario=3, pos=16] -> Loja 1 (pos=19)
+Log Venda Fabrica: Veiculo[id=296, cor=Verde, tipo=Sedan, estacao=2, funcionario=2, pos=15] -> Loja 2 (pos=21)
+Log Producao Fabrica: Veiculo[id=298, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=3, pos=17]
+Log Venda Fabrica: Veiculo[id=298, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=3, pos=17] -> Loja 3 (pos=15)
+Log Producao Fabrica: Veiculo[id=299, cor=Verde, tipo=SUV, estacao=1, funcionario=5, pos=18]
+Log Producao Fabrica: Veiculo[id=300, cor=Azul, tipo=Sedan, estacao=1, funcionario=3, pos=19]
+Log Venda Fabrica: Veiculo[id=299, cor=Verde, tipo=SUV, estacao=1, funcionario=5, pos=18] -> Loja 1 (pos=20)
+Log Venda Fabrica: Veiculo[id=300, cor=Azul, tipo=Sedan, estacao=1, funcionario=3, pos=19] -> Loja 2 (pos=22)
+Log Producao Fabrica: Veiculo[id=301, cor=Vermelho, tipo=SUV, estacao=1, funcionario=1, pos=20]
+Log Venda Fabrica: Veiculo[id=301, cor=Vermelho, tipo=SUV, estacao=1, funcionario=1, pos=20] -> Loja 3 (pos=16)
+Log Producao Fabrica: Veiculo[id=302, cor=Verde, tipo=Sedan, estacao=1, funcionario=2, pos=21]
+Log Venda Fabrica: Veiculo[id=302, cor=Verde, tipo=Sedan, estacao=1, funcionario=2, pos=21] -> Loja 1 (pos=21)
+Log Producao Fabrica: Veiculo[id=303, cor=Azul, tipo=SUV, estacao=4, funcionario=4, pos=22]
+Log Venda Fabrica: Veiculo[id=303, cor=Azul, tipo=SUV, estacao=4, funcionario=4, pos=22] -> Loja 2 (pos=23)
+Log Producao Fabrica: Veiculo[id=304, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=1, pos=23]
+Log Venda Fabrica: Veiculo[id=304, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=1, pos=23] -> Loja 3 (pos=17)
+Log Producao Fabrica: Veiculo[id=305, cor=Verde, tipo=SUV, estacao=2, funcionario=1, pos=24]
+Log Venda Fabrica: Veiculo[id=305, cor=Verde, tipo=SUV, estacao=2, funcionario=1, pos=24] -> Loja 1 (pos=22)
+Log Venda Fabrica: Veiculo[id=306, cor=Azul, tipo=Sedan, estacao=2, funcionario=4, pos=25] -> Loja 1 (pos=23)
+Log Producao Fabrica: Veiculo[id=306, cor=Azul, tipo=Sedan, estacao=2, funcionario=4, pos=25]
+Log Venda Fabrica: Veiculo[id=307, cor=Vermelho, tipo=SUV, estacao=3, funcionario=1, pos=26] -> Loja 3 (pos=18)
+Log Producao Fabrica: Veiculo[id=307, cor=Vermelho, tipo=SUV, estacao=3, funcionario=1, pos=26]
+Log Venda Fabrica: Veiculo[id=308, cor=Verde, tipo=Sedan, estacao=4, funcionario=5, pos=27] -> Loja 2 (pos=24)
+Log Producao Fabrica: Veiculo[id=308, cor=Verde, tipo=Sedan, estacao=4, funcionario=5, pos=27]
+Log Producao Fabrica: Veiculo[id=309, cor=Azul, tipo=SUV, estacao=4, funcionario=2, pos=28]
+Log Venda Fabrica: Veiculo[id=309, cor=Azul, tipo=SUV, estacao=4, funcionario=2, pos=28] -> Loja 1 (pos=24)
+Log Producao Fabrica: Veiculo[id=310, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=5, pos=29]
+Log Venda Fabrica: Veiculo[id=310, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=5, pos=29] -> Loja 3 (pos=19)
+Log Venda Fabrica: Veiculo[id=311, cor=Verde, tipo=SUV, estacao=3, funcionario=4, pos=30] -> Loja 2 (pos=25)
+Log Producao Fabrica: Veiculo[id=311, cor=Verde, tipo=SUV, estacao=3, funcionario=4, pos=30]
+Log Producao Fabrica: Veiculo[id=312, cor=Azul, tipo=Sedan, estacao=3, funcionario=2, pos=31]
+Log Venda Fabrica: Veiculo[id=312, cor=Azul, tipo=Sedan, estacao=3, funcionario=2, pos=31] -> Loja 1 (pos=25)
+Log Venda Fabrica: Veiculo[id=313, cor=Vermelho, tipo=SUV, estacao=1, funcionario=4, pos=32] -> Loja 1 (pos=26)
+Log Producao Fabrica: Veiculo[id=313, cor=Vermelho, tipo=SUV, estacao=1, funcionario=4, pos=32]
+Log Producao Fabrica: Veiculo[id=314, cor=Verde, tipo=Sedan, estacao=3, funcionario=5, pos=33]
+Log Venda Fabrica: Veiculo[id=314, cor=Verde, tipo=Sedan, estacao=3, funcionario=5, pos=33] -> Loja 2 (pos=26)
+Log Producao Fabrica: Veiculo[id=315, cor=Azul, tipo=SUV, estacao=4, funcionario=3, pos=34]
+Log Venda Fabrica: Veiculo[id=315, cor=Azul, tipo=SUV, estacao=4, funcionario=3, pos=34] -> Loja 3 (pos=20)
+Log Producao Fabrica: Veiculo[id=316, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=2, pos=35]
+Log Producao Fabrica: Veiculo[id=317, cor=Verde, tipo=SUV, estacao=2, funcionario=3, pos=36]
+Log Venda Fabrica: Veiculo[id=317, cor=Verde, tipo=SUV, estacao=2, funcionario=3, pos=36] -> Loja 2 (pos=27)
+Log Venda Fabrica: Veiculo[id=316, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=2, pos=35] -> Loja 1 (pos=27)
+Log Producao Fabrica: Veiculo[id=318, cor=Azul, tipo=Sedan, estacao=3, funcionario=3, pos=37]
+Log Venda Fabrica: Veiculo[id=318, cor=Azul, tipo=Sedan, estacao=3, funcionario=3, pos=37] -> Loja 3 (pos=21)
+Log Venda Fabrica: Veiculo[id=319, cor=Vermelho, tipo=SUV, estacao=1, funcionario=5, pos=38] -> Loja 2 (pos=28)
+Log Producao Fabrica: Veiculo[id=319, cor=Vermelho, tipo=SUV, estacao=1, funcionario=5, pos=38]
+Log Producao Fabrica: Veiculo[id=320, cor=Verde, tipo=Sedan, estacao=1, funcionario=3, pos=39]
+Log Venda Fabrica: Veiculo[id=320, cor=Verde, tipo=Sedan, estacao=1, funcionario=3, pos=39] -> Loja 1 (pos=28)
+Log Producao Fabrica: Veiculo[id=321, cor=Azul, tipo=SUV, estacao=1, funcionario=1, pos=0]
+Log Venda Fabrica: Veiculo[id=321, cor=Azul, tipo=SUV, estacao=1, funcionario=1, pos=0] -> Loja 3 (pos=22)
+Log Producao Fabrica: Veiculo[id=322, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=2, pos=1]
+Log Venda Fabrica: Veiculo[id=322, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=2, pos=1] -> Loja 2 (pos=29)
+Log Producao Fabrica: Veiculo[id=323, cor=Verde, tipo=SUV, estacao=4, funcionario=4, pos=2]
+Log Venda Fabrica: Veiculo[id=323, cor=Verde, tipo=SUV, estacao=4, funcionario=4, pos=2] -> Loja 1 (pos=29)
+Log Producao Fabrica: Veiculo[id=324, cor=Azul, tipo=Sedan, estacao=4, funcionario=1, pos=3]
+Log Venda Fabrica: Veiculo[id=324, cor=Azul, tipo=Sedan, estacao=4, funcionario=1, pos=3] -> Loja 3 (pos=23)
+Log Producao Fabrica: Veiculo[id=325, cor=Vermelho, tipo=SUV, estacao=2, funcionario=1, pos=4]
+Log Venda Fabrica: Veiculo[id=325, cor=Vermelho, tipo=SUV, estacao=2, funcionario=1, pos=4] -> Loja 2 (pos=30)
+Log Venda Fabrica: Veiculo[id=326, cor=Verde, tipo=Sedan, estacao=2, funcionario=4, pos=5] -> Loja 1 (pos=30)
+Log Producao Fabrica: Veiculo[id=326, cor=Verde, tipo=Sedan, estacao=2, funcionario=4, pos=5]
+Log Producao Fabrica: Veiculo[id=327, cor=Azul, tipo=SUV, estacao=3, funcionario=1, pos=6]
+Log Venda Fabrica: Veiculo[id=327, cor=Azul, tipo=SUV, estacao=3, funcionario=1, pos=6] -> Loja 3 (pos=24)
+Log Venda Fabrica: Veiculo[id=328, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=5, pos=7] -> Loja 2 (pos=31)
+Log Producao Fabrica: Veiculo[id=328, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=5, pos=7]
+Log Producao Fabrica: Veiculo[id=329, cor=Verde, tipo=SUV, estacao=4, funcionario=2, pos=8]
+Log Venda Fabrica: Veiculo[id=329, cor=Verde, tipo=SUV, estacao=4, funcionario=2, pos=8] -> Loja 1 (pos=31)
+Log Producao Fabrica: Veiculo[id=330, cor=Azul, tipo=Sedan, estacao=2, funcionario=5, pos=9]
+Log Venda Fabrica: Veiculo[id=330, cor=Azul, tipo=Sedan, estacao=2, funcionario=5, pos=9] -> Loja 3 (pos=25)
+Log Producao Fabrica: Veiculo[id=331, cor=Vermelho, tipo=SUV, estacao=3, funcionario=4, pos=10]
+Log Venda Fabrica: Veiculo[id=331, cor=Vermelho, tipo=SUV, estacao=3, funcionario=4, pos=10] -> Loja 2 (pos=32)
+Log Producao Fabrica: Veiculo[id=332, cor=Verde, tipo=Sedan, estacao=3, funcionario=2, pos=11]
+Log Venda Fabrica: Veiculo[id=332, cor=Verde, tipo=Sedan, estacao=3, funcionario=2, pos=11] -> Loja 1 (pos=32)
+Log Producao Fabrica: Veiculo[id=333, cor=Azul, tipo=SUV, estacao=1, funcionario=4, pos=12]
+Log Venda Fabrica: Veiculo[id=333, cor=Azul, tipo=SUV, estacao=1, funcionario=4, pos=12] -> Loja 3 (pos=26)
+Log Producao Fabrica: Veiculo[id=334, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=5, pos=13]
+Log Venda Fabrica: Veiculo[id=334, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=5, pos=13] -> Loja 2 (pos=33)
+Log Producao Fabrica: Veiculo[id=335, cor=Verde, tipo=SUV, estacao=4, funcionario=3, pos=14]
+Log Venda Fabrica: Veiculo[id=335, cor=Verde, tipo=SUV, estacao=4, funcionario=3, pos=14] -> Loja 1 (pos=33)
+Log Producao Fabrica: Veiculo[id=336, cor=Azul, tipo=Sedan, estacao=2, funcionario=2, pos=15]
+Log Venda Fabrica: Veiculo[id=336, cor=Azul, tipo=Sedan, estacao=2, funcionario=2, pos=15] -> Loja 3 (pos=27)
+Log Venda Fabrica: Veiculo[id=337, cor=Vermelho, tipo=SUV, estacao=2, funcionario=3, pos=16] -> Loja 2 (pos=34)
+Log Producao Fabrica: Veiculo[id=337, cor=Vermelho, tipo=SUV, estacao=2, funcionario=3, pos=16]
+Log Producao Fabrica: Veiculo[id=338, cor=Verde, tipo=Sedan, estacao=3, funcionario=3, pos=17]
+Log Venda Fabrica: Veiculo[id=338, cor=Verde, tipo=Sedan, estacao=3, funcionario=3, pos=17] -> Loja 1 (pos=34)
+Log Producao Fabrica: Veiculo[id=339, cor=Azul, tipo=SUV, estacao=1, funcionario=5, pos=18]
+Log Producao Fabrica: Veiculo[id=340, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=3, pos=19]
+Log Venda Fabrica: Veiculo[id=339, cor=Azul, tipo=SUV, estacao=1, funcionario=5, pos=18] -> Loja 3 (pos=28)
+Log Venda Fabrica: Veiculo[id=340, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=3, pos=19] -> Loja 2 (pos=35)
+Log Producao Fabrica: Veiculo[id=341, cor=Verde, tipo=SUV, estacao=1, funcionario=1, pos=20]
+Log Venda Fabrica: Veiculo[id=341, cor=Verde, tipo=SUV, estacao=1, funcionario=1, pos=20] -> Loja 1 (pos=35)
+Log Producao Fabrica: Veiculo[id=342, cor=Azul, tipo=Sedan, estacao=1, funcionario=2, pos=21]
+Log Venda Fabrica: Veiculo[id=342, cor=Azul, tipo=Sedan, estacao=1, funcionario=2, pos=21] -> Loja 3 (pos=29)
+Log Producao Fabrica: Veiculo[id=343, cor=Vermelho, tipo=SUV, estacao=4, funcionario=4, pos=22]
+Log Venda Fabrica: Veiculo[id=343, cor=Vermelho, tipo=SUV, estacao=4, funcionario=4, pos=22] -> Loja 2 (pos=36)
+Log Producao Fabrica: Veiculo[id=344, cor=Verde, tipo=Sedan, estacao=4, funcionario=1, pos=23]
+Log Venda Fabrica: Veiculo[id=344, cor=Verde, tipo=Sedan, estacao=4, funcionario=1, pos=23] -> Loja 1 (pos=36)
+Log Producao Fabrica: Veiculo[id=345, cor=Azul, tipo=SUV, estacao=2, funcionario=1, pos=24]
+Log Venda Fabrica: Veiculo[id=345, cor=Azul, tipo=SUV, estacao=2, funcionario=1, pos=24] -> Loja 3 (pos=30)
+Log Producao Fabrica: Veiculo[id=346, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=4, pos=25]
+Log Venda Fabrica: Veiculo[id=346, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=4, pos=25] -> Loja 2 (pos=37)
+Log Producao Fabrica: Veiculo[id=347, cor=Verde, tipo=SUV, estacao=3, funcionario=1, pos=26]
+Log Venda Fabrica: Veiculo[id=347, cor=Verde, tipo=SUV, estacao=3, funcionario=1, pos=26] -> Loja 1 (pos=37)
+Log Producao Fabrica: Veiculo[id=348, cor=Azul, tipo=Sedan, estacao=4, funcionario=5, pos=27]
+Log Venda Fabrica: Veiculo[id=348, cor=Azul, tipo=Sedan, estacao=4, funcionario=5, pos=27] -> Loja 3 (pos=31)
+Log Producao Fabrica: Veiculo[id=349, cor=Vermelho, tipo=SUV, estacao=4, funcionario=2, pos=28]
+Log Venda Fabrica: Veiculo[id=349, cor=Vermelho, tipo=SUV, estacao=4, funcionario=2, pos=28] -> Loja 2 (pos=38)
+Log Producao Fabrica: Veiculo[id=350, cor=Verde, tipo=Sedan, estacao=2, funcionario=5, pos=29]
+Log Venda Fabrica: Veiculo[id=350, cor=Verde, tipo=Sedan, estacao=2, funcionario=5, pos=29] -> Loja 1 (pos=38)
+Log Producao Fabrica: Veiculo[id=351, cor=Azul, tipo=SUV, estacao=3, funcionario=4, pos=30]
+Log Venda Fabrica: Veiculo[id=351, cor=Azul, tipo=SUV, estacao=3, funcionario=4, pos=30] -> Loja 3 (pos=32)
+Log Producao Fabrica: Veiculo[id=352, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=2, pos=31]
+Log Venda Fabrica: Veiculo[id=352, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=2, pos=31] -> Loja 2 (pos=39)
+Log Producao Fabrica: Veiculo[id=353, cor=Verde, tipo=SUV, estacao=1, funcionario=4, pos=32]
+Log Venda Fabrica: Veiculo[id=353, cor=Verde, tipo=SUV, estacao=1, funcionario=4, pos=32] -> Loja 1 (pos=39)
+Log Producao Fabrica: Veiculo[id=354, cor=Azul, tipo=Sedan, estacao=3, funcionario=5, pos=33]
+Log Venda Fabrica: Veiculo[id=354, cor=Azul, tipo=Sedan, estacao=3, funcionario=5, pos=33] -> Loja 3 (pos=33)
+Log Producao Fabrica: Veiculo[id=355, cor=Vermelho, tipo=SUV, estacao=4, funcionario=3, pos=34]
+Log Venda Fabrica: Veiculo[id=355, cor=Vermelho, tipo=SUV, estacao=4, funcionario=3, pos=34] -> Loja 2 (pos=0)
+Log Producao Fabrica: Veiculo[id=356, cor=Verde, tipo=Sedan, estacao=2, funcionario=2, pos=35]
+Log Venda Fabrica: Veiculo[id=356, cor=Verde, tipo=Sedan, estacao=2, funcionario=2, pos=35] -> Loja 1 (pos=0)
+Log Producao Fabrica: Veiculo[id=357, cor=Azul, tipo=SUV, estacao=2, funcionario=3, pos=36]
+Log Venda Fabrica: Veiculo[id=357, cor=Azul, tipo=SUV, estacao=2, funcionario=3, pos=36] -> Loja 3 (pos=34)
+Log Producao Fabrica: Veiculo[id=358, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=3, pos=37]
+Log Venda Fabrica: Veiculo[id=358, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=3, pos=37] -> Loja 2 (pos=1)
+Log Venda Fabrica: Veiculo[id=359, cor=Verde, tipo=SUV, estacao=1, funcionario=5, pos=38] -> Loja 1 (pos=1)
+Log Producao Fabrica: Veiculo[id=360, cor=Azul, tipo=Sedan, estacao=1, funcionario=3, pos=39]
+Log Producao Fabrica: Veiculo[id=359, cor=Verde, tipo=SUV, estacao=1, funcionario=5, pos=38]
+Log Venda Fabrica: Veiculo[id=360, cor=Azul, tipo=Sedan, estacao=1, funcionario=3, pos=39] -> Loja 3 (pos=35)
+Log Producao Fabrica: Veiculo[id=361, cor=Vermelho, tipo=SUV, estacao=1, funcionario=1, pos=0]
+Log Venda Fabrica: Veiculo[id=361, cor=Vermelho, tipo=SUV, estacao=1, funcionario=1, pos=0] -> Loja 2 (pos=2)
+Log Producao Fabrica: Veiculo[id=362, cor=Verde, tipo=Sedan, estacao=1, funcionario=2, pos=1]
+Log Venda Fabrica: Veiculo[id=362, cor=Verde, tipo=Sedan, estacao=1, funcionario=2, pos=1] -> Loja 1 (pos=2)
+Log Producao Fabrica: Veiculo[id=363, cor=Azul, tipo=SUV, estacao=4, funcionario=4, pos=2]
+Log Venda Fabrica: Veiculo[id=363, cor=Azul, tipo=SUV, estacao=4, funcionario=4, pos=2] -> Loja 3 (pos=36)
+Log Producao Fabrica: Veiculo[id=364, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=1, pos=3]
+Log Venda Fabrica: Veiculo[id=364, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=1, pos=3] -> Loja 2 (pos=3)
+Log Producao Fabrica: Veiculo[id=365, cor=Verde, tipo=SUV, estacao=2, funcionario=1, pos=4]
+Log Venda Fabrica: Veiculo[id=365, cor=Verde, tipo=SUV, estacao=2, funcionario=1, pos=4] -> Loja 1 (pos=3)
+Log Producao Fabrica: Veiculo[id=366, cor=Azul, tipo=Sedan, estacao=2, funcionario=4, pos=5]
+Log Venda Fabrica: Veiculo[id=366, cor=Azul, tipo=Sedan, estacao=2, funcionario=4, pos=5] -> Loja 3 (pos=37)
+Log Producao Fabrica: Veiculo[id=367, cor=Vermelho, tipo=SUV, estacao=3, funcionario=1, pos=6]
+Log Venda Fabrica: Veiculo[id=367, cor=Vermelho, tipo=SUV, estacao=3, funcionario=1, pos=6] -> Loja 2 (pos=4)
+Log Producao Fabrica: Veiculo[id=368, cor=Verde, tipo=Sedan, estacao=4, funcionario=5, pos=7]
+Log Venda Fabrica: Veiculo[id=368, cor=Verde, tipo=Sedan, estacao=4, funcionario=5, pos=7] -> Loja 1 (pos=4)
+Log Producao Fabrica: Veiculo[id=369, cor=Azul, tipo=SUV, estacao=4, funcionario=2, pos=8]
+Log Venda Fabrica: Veiculo[id=369, cor=Azul, tipo=SUV, estacao=4, funcionario=2, pos=8] -> Loja 3 (pos=38)
+Log Producao Fabrica: Veiculo[id=370, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=5, pos=9]
+Log Venda Fabrica: Veiculo[id=370, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=5, pos=9] -> Loja 2 (pos=5)
+Log Producao Fabrica: Veiculo[id=371, cor=Verde, tipo=SUV, estacao=3, funcionario=4, pos=10]
+Log Venda Fabrica: Veiculo[id=371, cor=Verde, tipo=SUV, estacao=3, funcionario=4, pos=10] -> Loja 1 (pos=5)
+Log Producao Fabrica: Veiculo[id=372, cor=Azul, tipo=Sedan, estacao=3, funcionario=2, pos=11]
+Log Producao Fabrica: Veiculo[id=373, cor=Vermelho, tipo=SUV, estacao=1, funcionario=4, pos=12]
+Log Venda Fabrica: Veiculo[id=372, cor=Azul, tipo=Sedan, estacao=3, funcionario=2, pos=11] -> Loja 3 (pos=39)
+Log Venda Fabrica: Veiculo[id=373, cor=Vermelho, tipo=SUV, estacao=1, funcionario=4, pos=12] -> Loja 2 (pos=6)
+Log Producao Fabrica: Veiculo[id=374, cor=Verde, tipo=Sedan, estacao=3, funcionario=5, pos=13]
+Log Venda Fabrica: Veiculo[id=374, cor=Verde, tipo=Sedan, estacao=3, funcionario=5, pos=13] -> Loja 1 (pos=6)
+Log Producao Fabrica: Veiculo[id=375, cor=Azul, tipo=SUV, estacao=4, funcionario=3, pos=14]
+Log Venda Fabrica: Veiculo[id=375, cor=Azul, tipo=SUV, estacao=4, funcionario=3, pos=14] -> Loja 3 (pos=0)
+Log Producao Fabrica: Veiculo[id=376, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=2, pos=15]
+Log Venda Fabrica: Veiculo[id=376, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=2, pos=15] -> Loja 2 (pos=7)
+Log Venda Fabrica: Veiculo[id=377, cor=Verde, tipo=SUV, estacao=2, funcionario=3, pos=16] -> Loja 1 (pos=7)
+Log Producao Fabrica: Veiculo[id=377, cor=Verde, tipo=SUV, estacao=2, funcionario=3, pos=16]
+Log Producao Fabrica: Veiculo[id=378, cor=Azul, tipo=Sedan, estacao=3, funcionario=3, pos=17]
+Log Venda Fabrica: Veiculo[id=378, cor=Azul, tipo=Sedan, estacao=3, funcionario=3, pos=17] -> Loja 3 (pos=1)
+Log Venda Fabrica: Veiculo[id=379, cor=Vermelho, tipo=SUV, estacao=1, funcionario=3, pos=18] -> Loja 2 (pos=8)
+Log Producao Fabrica: Veiculo[id=379, cor=Vermelho, tipo=SUV, estacao=1, funcionario=3, pos=18]
+Log Venda Fabrica: Veiculo[id=380, cor=Verde, tipo=Sedan, estacao=1, funcionario=5, pos=19] -> Loja 1 (pos=8)
+Log Producao Fabrica: Veiculo[id=380, cor=Verde, tipo=Sedan, estacao=1, funcionario=5, pos=19]
+Log Producao Fabrica: Veiculo[id=381, cor=Azul, tipo=SUV, estacao=1, funcionario=1, pos=20]
+Log Venda Fabrica: Veiculo[id=381, cor=Azul, tipo=SUV, estacao=1, funcionario=1, pos=20] -> Loja 3 (pos=2)
+Log Producao Fabrica: Veiculo[id=382, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=2, pos=21]
+Log Venda Fabrica: Veiculo[id=382, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=2, pos=21] -> Loja 2 (pos=9)
+Log Producao Fabrica: Veiculo[id=383, cor=Verde, tipo=SUV, estacao=4, funcionario=4, pos=22]
+Log Venda Fabrica: Veiculo[id=383, cor=Verde, tipo=SUV, estacao=4, funcionario=4, pos=22] -> Loja 1 (pos=9)
+Log Producao Fabrica: Veiculo[id=384, cor=Azul, tipo=Sedan, estacao=4, funcionario=1, pos=23]
+Log Venda Fabrica: Veiculo[id=384, cor=Azul, tipo=Sedan, estacao=4, funcionario=1, pos=23] -> Loja 3 (pos=3)
+Log Producao Fabrica: Veiculo[id=385, cor=Vermelho, tipo=SUV, estacao=2, funcionario=1, pos=24]
+Log Venda Fabrica: Veiculo[id=385, cor=Vermelho, tipo=SUV, estacao=2, funcionario=1, pos=24] -> Loja 2 (pos=10)
+Log Producao Fabrica: Veiculo[id=386, cor=Verde, tipo=Sedan, estacao=2, funcionario=4, pos=25]
+Log Venda Fabrica: Veiculo[id=386, cor=Verde, tipo=Sedan, estacao=2, funcionario=4, pos=25] -> Loja 1 (pos=10)
+Log Producao Fabrica: Veiculo[id=387, cor=Azul, tipo=SUV, estacao=3, funcionario=1, pos=26]
+Log Venda Fabrica: Veiculo[id=387, cor=Azul, tipo=SUV, estacao=3, funcionario=1, pos=26] -> Loja 3 (pos=4)
+Log Venda Fabrica: Veiculo[id=388, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=5, pos=27] -> Loja 2 (pos=11)
+Log Producao Fabrica: Veiculo[id=388, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=5, pos=27]
+Log Producao Fabrica: Veiculo[id=389, cor=Verde, tipo=SUV, estacao=4, funcionario=2, pos=28]
+Log Venda Fabrica: Veiculo[id=389, cor=Verde, tipo=SUV, estacao=4, funcionario=2, pos=28] -> Loja 1 (pos=11)
+Log Producao Fabrica: Veiculo[id=390, cor=Azul, tipo=Sedan, estacao=2, funcionario=5, pos=29]
+Log Venda Fabrica: Veiculo[id=390, cor=Azul, tipo=Sedan, estacao=2, funcionario=5, pos=29] -> Loja 3 (pos=5)
+Log Producao Fabrica: Veiculo[id=391, cor=Vermelho, tipo=SUV, estacao=3, funcionario=4, pos=30]
+Log Venda Fabrica: Veiculo[id=391, cor=Vermelho, tipo=SUV, estacao=3, funcionario=4, pos=30] -> Loja 2 (pos=12)
+Log Producao Fabrica: Veiculo[id=392, cor=Verde, tipo=Sedan, estacao=3, funcionario=2, pos=31]
+Log Venda Fabrica: Veiculo[id=392, cor=Verde, tipo=Sedan, estacao=3, funcionario=2, pos=31] -> Loja 1 (pos=12)
+Log Venda Fabrica: Veiculo[id=393, cor=Azul, tipo=SUV, estacao=1, funcionario=4, pos=32] -> Loja 1 (pos=13)
+Log Producao Fabrica: Veiculo[id=393, cor=Azul, tipo=SUV, estacao=1, funcionario=4, pos=32]
+Log Producao Fabrica: Veiculo[id=394, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=5, pos=33]
+Log Venda Fabrica: Veiculo[id=394, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=5, pos=33] -> Loja 2 (pos=13)
+Log Producao Fabrica: Veiculo[id=395, cor=Verde, tipo=SUV, estacao=4, funcionario=3, pos=34]
+Log Venda Fabrica: Veiculo[id=395, cor=Verde, tipo=SUV, estacao=4, funcionario=3, pos=34] -> Loja 3 (pos=6)
+Log Producao Fabrica: Veiculo[id=396, cor=Azul, tipo=Sedan, estacao=2, funcionario=2, pos=35]
+Log Venda Fabrica: Veiculo[id=396, cor=Azul, tipo=Sedan, estacao=2, funcionario=2, pos=35] -> Loja 1 (pos=14)
+Log Producao Fabrica: Veiculo[id=397, cor=Vermelho, tipo=SUV, estacao=2, funcionario=3, pos=36]
+Log Venda Fabrica: Veiculo[id=397, cor=Vermelho, tipo=SUV, estacao=2, funcionario=3, pos=36] -> Loja 2 (pos=14)
+Log Producao Fabrica: Veiculo[id=398, cor=Verde, tipo=Sedan, estacao=3, funcionario=3, pos=37]
+Log Venda Fabrica: Veiculo[id=398, cor=Verde, tipo=Sedan, estacao=3, funcionario=3, pos=37] -> Loja 3 (pos=7)
+Log Producao Fabrica: Veiculo[id=399, cor=Azul, tipo=SUV, estacao=1, funcionario=3, pos=38]
+Log Venda Fabrica: Veiculo[id=399, cor=Azul, tipo=SUV, estacao=1, funcionario=3, pos=38] -> Loja 1 (pos=15)
+Log Venda Fabrica: Veiculo[id=400, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=5, pos=39] -> Loja 1 (pos=16)
+Log Producao Fabrica: Veiculo[id=400, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=5, pos=39]
+Log Producao Fabrica: Veiculo[id=401, cor=Verde, tipo=SUV, estacao=1, funcionario=1, pos=0]
+Log Venda Fabrica: Veiculo[id=401, cor=Verde, tipo=SUV, estacao=1, funcionario=1, pos=0] -> Loja 3 (pos=8)
+Log Producao Fabrica: Veiculo[id=402, cor=Azul, tipo=Sedan, estacao=1, funcionario=2, pos=1]
+Log Venda Fabrica: Veiculo[id=402, cor=Azul, tipo=Sedan, estacao=1, funcionario=2, pos=1] -> Loja 2 (pos=15)
+Log Producao Fabrica: Veiculo[id=403, cor=Vermelho, tipo=SUV, estacao=4, funcionario=4, pos=2]
+Log Venda Fabrica: Veiculo[id=403, cor=Vermelho, tipo=SUV, estacao=4, funcionario=4, pos=2] -> Loja 1 (pos=17)
+Log Producao Fabrica: Veiculo[id=404, cor=Verde, tipo=Sedan, estacao=4, funcionario=1, pos=3]
+Log Venda Fabrica: Veiculo[id=404, cor=Verde, tipo=Sedan, estacao=4, funcionario=1, pos=3] -> Loja 3 (pos=9)
+Log Producao Fabrica: Veiculo[id=405, cor=Azul, tipo=SUV, estacao=2, funcionario=1, pos=4]
+Log Venda Fabrica: Veiculo[id=405, cor=Azul, tipo=SUV, estacao=2, funcionario=1, pos=4] -> Loja 2 (pos=16)
+Log Producao Fabrica: Veiculo[id=406, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=4, pos=5]
+Log Venda Fabrica: Veiculo[id=406, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=4, pos=5] -> Loja 1 (pos=18)
+Log Producao Fabrica: Veiculo[id=407, cor=Verde, tipo=SUV, estacao=3, funcionario=1, pos=6]
+Log Venda Fabrica: Veiculo[id=407, cor=Verde, tipo=SUV, estacao=3, funcionario=1, pos=6] -> Loja 3 (pos=10)
+Log Producao Fabrica: Veiculo[id=408, cor=Azul, tipo=Sedan, estacao=4, funcionario=5, pos=7]
+Log Venda Fabrica: Veiculo[id=408, cor=Azul, tipo=Sedan, estacao=4, funcionario=5, pos=7] -> Loja 2 (pos=17)
+Log Producao Fabrica: Veiculo[id=409, cor=Vermelho, tipo=SUV, estacao=4, funcionario=2, pos=8]
+Log Venda Fabrica: Veiculo[id=409, cor=Vermelho, tipo=SUV, estacao=4, funcionario=2, pos=8] -> Loja 1 (pos=19)
+Log Producao Fabrica: Veiculo[id=410, cor=Verde, tipo=Sedan, estacao=2, funcionario=5, pos=9]
+Log Venda Fabrica: Veiculo[id=410, cor=Verde, tipo=Sedan, estacao=2, funcionario=5, pos=9] -> Loja 3 (pos=11)
+Log Producao Fabrica: Veiculo[id=411, cor=Azul, tipo=SUV, estacao=3, funcionario=4, pos=10]
+Log Venda Fabrica: Veiculo[id=411, cor=Azul, tipo=SUV, estacao=3, funcionario=4, pos=10] -> Loja 2 (pos=18)
+Log Producao Fabrica: Veiculo[id=412, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=2, pos=11]
+Log Venda Fabrica: Veiculo[id=412, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=2, pos=11] -> Loja 1 (pos=20)
+Log Producao Fabrica: Veiculo[id=413, cor=Verde, tipo=SUV, estacao=1, funcionario=4, pos=12]
+Log Venda Fabrica: Veiculo[id=413, cor=Verde, tipo=SUV, estacao=1, funcionario=4, pos=12] -> Loja 3 (pos=12)
+Log Producao Fabrica: Veiculo[id=414, cor=Azul, tipo=Sedan, estacao=3, funcionario=5, pos=13]
+Log Venda Fabrica: Veiculo[id=414, cor=Azul, tipo=Sedan, estacao=3, funcionario=5, pos=13] -> Loja 2 (pos=19)
+Log Venda Fabrica: Veiculo[id=415, cor=Vermelho, tipo=SUV, estacao=4, funcionario=3, pos=14] -> Loja 1 (pos=21)
+Log Producao Fabrica: Veiculo[id=415, cor=Vermelho, tipo=SUV, estacao=4, funcionario=3, pos=14]
+Log Producao Fabrica: Veiculo[id=416, cor=Verde, tipo=Sedan, estacao=2, funcionario=2, pos=15]
+Log Venda Fabrica: Veiculo[id=416, cor=Verde, tipo=Sedan, estacao=2, funcionario=2, pos=15] -> Loja 3 (pos=13)
+Log Producao Fabrica: Veiculo[id=417, cor=Azul, tipo=SUV, estacao=2, funcionario=3, pos=16]
+Log Venda Fabrica: Veiculo[id=417, cor=Azul, tipo=SUV, estacao=2, funcionario=3, pos=16] -> Loja 2 (pos=20)
+Log Producao Fabrica: Veiculo[id=418, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=3, pos=17]
+Log Venda Fabrica: Veiculo[id=418, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=3, pos=17] -> Loja 1 (pos=22)
+Log Venda Fabrica: Veiculo[id=419, cor=Verde, tipo=SUV, estacao=1, funcionario=3, pos=18] -> Loja 3 (pos=14)
+Log Producao Fabrica: Veiculo[id=419, cor=Verde, tipo=SUV, estacao=1, funcionario=3, pos=18]
+Log Producao Fabrica: Veiculo[id=420, cor=Azul, tipo=Sedan, estacao=1, funcionario=5, pos=19]
+Log Venda Fabrica: Veiculo[id=420, cor=Azul, tipo=Sedan, estacao=1, funcionario=5, pos=19] -> Loja 2 (pos=21)
+Log Producao Fabrica: Veiculo[id=421, cor=Vermelho, tipo=SUV, estacao=1, funcionario=1, pos=20]
+Log Venda Fabrica: Veiculo[id=421, cor=Vermelho, tipo=SUV, estacao=1, funcionario=1, pos=20] -> Loja 1 (pos=23)
+Log Producao Fabrica: Veiculo[id=422, cor=Verde, tipo=Sedan, estacao=1, funcionario=2, pos=21]
+Log Venda Fabrica: Veiculo[id=422, cor=Verde, tipo=Sedan, estacao=1, funcionario=2, pos=21] -> Loja 3 (pos=15)
+Log Producao Fabrica: Veiculo[id=423, cor=Azul, tipo=SUV, estacao=4, funcionario=4, pos=22]
+Log Venda Fabrica: Veiculo[id=423, cor=Azul, tipo=SUV, estacao=4, funcionario=4, pos=22] -> Loja 2 (pos=22)
+Log Producao Fabrica: Veiculo[id=424, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=1, pos=23]
+Log Venda Fabrica: Veiculo[id=424, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=1, pos=23] -> Loja 1 (pos=24)
+Log Producao Fabrica: Veiculo[id=425, cor=Verde, tipo=SUV, estacao=2, funcionario=1, pos=24]
+Log Venda Fabrica: Veiculo[id=425, cor=Verde, tipo=SUV, estacao=2, funcionario=1, pos=24] -> Loja 3 (pos=16)
+Log Producao Fabrica: Veiculo[id=426, cor=Azul, tipo=Sedan, estacao=2, funcionario=4, pos=25]
+Log Venda Fabrica: Veiculo[id=426, cor=Azul, tipo=Sedan, estacao=2, funcionario=4, pos=25] -> Loja 2 (pos=23)
+Log Producao Fabrica: Veiculo[id=427, cor=Vermelho, tipo=SUV, estacao=3, funcionario=1, pos=26]
+Log Venda Fabrica: Veiculo[id=427, cor=Vermelho, tipo=SUV, estacao=3, funcionario=1, pos=26] -> Loja 1 (pos=25)
+Log Producao Fabrica: Veiculo[id=428, cor=Verde, tipo=Sedan, estacao=4, funcionario=5, pos=27]
+Log Venda Fabrica: Veiculo[id=428, cor=Verde, tipo=Sedan, estacao=4, funcionario=5, pos=27] -> Loja 3 (pos=17)
+Log Producao Fabrica: Veiculo[id=429, cor=Azul, tipo=SUV, estacao=4, funcionario=2, pos=28]
+Log Venda Fabrica: Veiculo[id=429, cor=Azul, tipo=SUV, estacao=4, funcionario=2, pos=28] -> Loja 2 (pos=24)
+Log Producao Fabrica: Veiculo[id=430, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=5, pos=29]
+Log Venda Fabrica: Veiculo[id=430, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=5, pos=29] -> Loja 1 (pos=26)
+Log Producao Fabrica: Veiculo[id=431, cor=Verde, tipo=SUV, estacao=3, funcionario=4, pos=30]
+Log Venda Fabrica: Veiculo[id=431, cor=Verde, tipo=SUV, estacao=3, funcionario=4, pos=30] -> Loja 3 (pos=18)
+Log Producao Fabrica: Veiculo[id=432, cor=Azul, tipo=Sedan, estacao=3, funcionario=2, pos=31]
+Log Venda Fabrica: Veiculo[id=432, cor=Azul, tipo=Sedan, estacao=3, funcionario=2, pos=31] -> Loja 2 (pos=25)
+Log Producao Fabrica: Veiculo[id=433, cor=Vermelho, tipo=SUV, estacao=1, funcionario=4, pos=32]
+Log Venda Fabrica: Veiculo[id=433, cor=Vermelho, tipo=SUV, estacao=1, funcionario=4, pos=32] -> Loja 1 (pos=27)
+Log Producao Fabrica: Veiculo[id=434, cor=Verde, tipo=Sedan, estacao=3, funcionario=5, pos=33]
+Log Producao Fabrica: Veiculo[id=435, cor=Azul, tipo=SUV, estacao=4, funcionario=3, pos=34]
+Log Venda Fabrica: Veiculo[id=434, cor=Verde, tipo=Sedan, estacao=3, funcionario=5, pos=33] -> Loja 3 (pos=19)
+Log Venda Fabrica: Veiculo[id=435, cor=Azul, tipo=SUV, estacao=4, funcionario=3, pos=34] -> Loja 2 (pos=26)
+Log Producao Fabrica: Veiculo[id=436, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=2, pos=35]
+Log Venda Fabrica: Veiculo[id=436, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=2, pos=35] -> Loja 1 (pos=28)
+Log Producao Fabrica: Veiculo[id=437, cor=Verde, tipo=SUV, estacao=2, funcionario=3, pos=36]
+Log Venda Fabrica: Veiculo[id=437, cor=Verde, tipo=SUV, estacao=2, funcionario=3, pos=36] -> Loja 3 (pos=20)
+Log Producao Fabrica: Veiculo[id=438, cor=Azul, tipo=Sedan, estacao=3, funcionario=3, pos=37]
+Log Venda Fabrica: Veiculo[id=438, cor=Azul, tipo=Sedan, estacao=3, funcionario=3, pos=37] -> Loja 2 (pos=27)
+Log Producao Fabrica: Veiculo[id=439, cor=Vermelho, tipo=SUV, estacao=1, funcionario=3, pos=38]
+Log Venda Fabrica: Veiculo[id=439, cor=Vermelho, tipo=SUV, estacao=1, funcionario=3, pos=38] -> Loja 1 (pos=29)
+Log Producao Fabrica: Veiculo[id=440, cor=Verde, tipo=Sedan, estacao=1, funcionario=5, pos=39]
+Log Venda Fabrica: Veiculo[id=440, cor=Verde, tipo=Sedan, estacao=1, funcionario=5, pos=39] -> Loja 1 (pos=30)
+Log Producao Fabrica: Veiculo[id=441, cor=Azul, tipo=SUV, estacao=1, funcionario=1, pos=0]
+Log Venda Fabrica: Veiculo[id=441, cor=Azul, tipo=SUV, estacao=1, funcionario=1, pos=0] -> Loja 2 (pos=28)
+Log Producao Fabrica: Veiculo[id=442, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=2, pos=1]
+Log Venda Fabrica: Veiculo[id=442, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=2, pos=1] -> Loja 3 (pos=21)
+Log Producao Fabrica: Veiculo[id=443, cor=Verde, tipo=SUV, estacao=4, funcionario=4, pos=2]
+Log Venda Fabrica: Veiculo[id=443, cor=Verde, tipo=SUV, estacao=4, funcionario=4, pos=2] -> Loja 1 (pos=31)
+Log Producao Fabrica: Veiculo[id=444, cor=Azul, tipo=Sedan, estacao=4, funcionario=1, pos=3]
+Log Producao Fabrica: Veiculo[id=445, cor=Vermelho, tipo=SUV, estacao=2, funcionario=1, pos=4]
+Log Venda Fabrica: Veiculo[id=445, cor=Vermelho, tipo=SUV, estacao=2, funcionario=1, pos=4] -> Loja 3 (pos=22)
+Log Venda Fabrica: Veiculo[id=444, cor=Azul, tipo=Sedan, estacao=4, funcionario=1, pos=3] -> Loja 2 (pos=29)
+Log Venda Fabrica: Veiculo[id=446, cor=Verde, tipo=Sedan, estacao=2, funcionario=4, pos=5] -> Loja 1 (pos=32)
+Log Producao Fabrica: Veiculo[id=446, cor=Verde, tipo=Sedan, estacao=2, funcionario=4, pos=5]
+Log Producao Fabrica: Veiculo[id=447, cor=Azul, tipo=SUV, estacao=3, funcionario=1, pos=6]
+Log Venda Fabrica: Veiculo[id=447, cor=Azul, tipo=SUV, estacao=3, funcionario=1, pos=6] -> Loja 3 (pos=23)
+Log Producao Fabrica: Veiculo[id=448, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=5, pos=7]
+Log Venda Fabrica: Veiculo[id=448, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=5, pos=7] -> Loja 2 (pos=30)
+Log Producao Fabrica: Veiculo[id=449, cor=Verde, tipo=SUV, estacao=4, funcionario=2, pos=8]
+Log Venda Fabrica: Veiculo[id=449, cor=Verde, tipo=SUV, estacao=4, funcionario=2, pos=8] -> Loja 1 (pos=33)
+Log Producao Fabrica: Veiculo[id=450, cor=Azul, tipo=Sedan, estacao=2, funcionario=5, pos=9]
+Log Venda Fabrica: Veiculo[id=450, cor=Azul, tipo=Sedan, estacao=2, funcionario=5, pos=9] -> Loja 3 (pos=24)
+Log Producao Fabrica: Veiculo[id=451, cor=Vermelho, tipo=SUV, estacao=3, funcionario=4, pos=10]
+Log Venda Fabrica: Veiculo[id=451, cor=Vermelho, tipo=SUV, estacao=3, funcionario=4, pos=10] -> Loja 2 (pos=31)
+Log Producao Fabrica: Veiculo[id=452, cor=Verde, tipo=Sedan, estacao=3, funcionario=2, pos=11]
+Log Venda Fabrica: Veiculo[id=452, cor=Verde, tipo=Sedan, estacao=3, funcionario=2, pos=11] -> Loja 1 (pos=34)
+Log Producao Fabrica: Veiculo[id=453, cor=Azul, tipo=SUV, estacao=1, funcionario=4, pos=12]
+Log Venda Fabrica: Veiculo[id=453, cor=Azul, tipo=SUV, estacao=1, funcionario=4, pos=12] -> Loja 3 (pos=25)
+Log Producao Fabrica: Veiculo[id=454, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=5, pos=13]
+Log Producao Fabrica: Veiculo[id=455, cor=Verde, tipo=SUV, estacao=4, funcionario=3, pos=14]
+Log Venda Fabrica: Veiculo[id=454, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=5, pos=13] -> Loja 2 (pos=32)
+Log Venda Fabrica: Veiculo[id=455, cor=Verde, tipo=SUV, estacao=4, funcionario=3, pos=14] -> Loja 1 (pos=35)
+Log Venda Fabrica: Veiculo[id=456, cor=Azul, tipo=Sedan, estacao=2, funcionario=2, pos=15] -> Loja 3 (pos=26)
+Log Producao Fabrica: Veiculo[id=456, cor=Azul, tipo=Sedan, estacao=2, funcionario=2, pos=15]
+Log Producao Fabrica: Veiculo[id=457, cor=Vermelho, tipo=SUV, estacao=2, funcionario=3, pos=16]
+Log Venda Fabrica: Veiculo[id=457, cor=Vermelho, tipo=SUV, estacao=2, funcionario=3, pos=16] -> Loja 2 (pos=33)
+Log Producao Fabrica: Veiculo[id=458, cor=Verde, tipo=Sedan, estacao=3, funcionario=3, pos=17]
+Log Venda Fabrica: Veiculo[id=458, cor=Verde, tipo=Sedan, estacao=3, funcionario=3, pos=17] -> Loja 1 (pos=36)
+Log Producao Fabrica: Veiculo[id=459, cor=Azul, tipo=SUV, estacao=1, funcionario=3, pos=18]
+Log Venda Fabrica: Veiculo[id=459, cor=Azul, tipo=SUV, estacao=1, funcionario=3, pos=18] -> Loja 3 (pos=27)
+Log Producao Fabrica: Veiculo[id=460, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=5, pos=19]
+Log Venda Fabrica: Veiculo[id=460, cor=Vermelho, tipo=Sedan, estacao=1, funcionario=5, pos=19] -> Loja 2 (pos=34)
+Log Producao Fabrica: Veiculo[id=461, cor=Verde, tipo=SUV, estacao=1, funcionario=1, pos=20]
+Log Venda Fabrica: Veiculo[id=461, cor=Verde, tipo=SUV, estacao=1, funcionario=1, pos=20] -> Loja 1 (pos=37)
+Log Producao Fabrica: Veiculo[id=462, cor=Azul, tipo=Sedan, estacao=1, funcionario=2, pos=21]
+Log Venda Fabrica: Veiculo[id=462, cor=Azul, tipo=Sedan, estacao=1, funcionario=2, pos=21] -> Loja 3 (pos=28)
+Log Producao Fabrica: Veiculo[id=463, cor=Vermelho, tipo=SUV, estacao=4, funcionario=4, pos=22]
+Log Venda Fabrica: Veiculo[id=463, cor=Vermelho, tipo=SUV, estacao=4, funcionario=4, pos=22] -> Loja 2 (pos=35)
+Log Producao Fabrica: Veiculo[id=464, cor=Verde, tipo=Sedan, estacao=4, funcionario=1, pos=23]
+Log Venda Fabrica: Veiculo[id=464, cor=Verde, tipo=Sedan, estacao=4, funcionario=1, pos=23] -> Loja 1 (pos=38)
+Log Producao Fabrica: Veiculo[id=465, cor=Azul, tipo=SUV, estacao=2, funcionario=1, pos=24]
+Log Venda Fabrica: Veiculo[id=465, cor=Azul, tipo=SUV, estacao=2, funcionario=1, pos=24] -> Loja 3 (pos=29)
+Log Producao Fabrica: Veiculo[id=466, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=4, pos=25]
+Log Venda Fabrica: Veiculo[id=466, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=4, pos=25] -> Loja 2 (pos=36)
+Log Producao Fabrica: Veiculo[id=467, cor=Verde, tipo=SUV, estacao=3, funcionario=1, pos=26]
+Log Venda Fabrica: Veiculo[id=467, cor=Verde, tipo=SUV, estacao=3, funcionario=1, pos=26] -> Loja 1 (pos=39)
+Log Producao Fabrica: Veiculo[id=468, cor=Azul, tipo=Sedan, estacao=4, funcionario=5, pos=27]
+Log Venda Fabrica: Veiculo[id=468, cor=Azul, tipo=Sedan, estacao=4, funcionario=5, pos=27] -> Loja 3 (pos=30)
+Log Producao Fabrica: Veiculo[id=469, cor=Vermelho, tipo=SUV, estacao=4, funcionario=2, pos=28]
+Log Venda Fabrica: Veiculo[id=469, cor=Vermelho, tipo=SUV, estacao=4, funcionario=2, pos=28] -> Loja 2 (pos=37)
+Log Producao Fabrica: Veiculo[id=470, cor=Verde, tipo=Sedan, estacao=2, funcionario=5, pos=29]
+Log Venda Fabrica: Veiculo[id=470, cor=Verde, tipo=Sedan, estacao=2, funcionario=5, pos=29] -> Loja 1 (pos=0)
+Log Producao Fabrica: Veiculo[id=471, cor=Azul, tipo=SUV, estacao=3, funcionario=4, pos=30]
+Log Venda Fabrica: Veiculo[id=471, cor=Azul, tipo=SUV, estacao=3, funcionario=4, pos=30] -> Loja 3 (pos=31)
+Log Producao Fabrica: Veiculo[id=472, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=2, pos=31]
+Log Venda Fabrica: Veiculo[id=472, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=2, pos=31] -> Loja 2 (pos=38)
+Log Producao Fabrica: Veiculo[id=473, cor=Verde, tipo=SUV, estacao=1, funcionario=4, pos=32]
+Log Venda Fabrica: Veiculo[id=473, cor=Verde, tipo=SUV, estacao=1, funcionario=4, pos=32] -> Loja 1 (pos=1)
+Log Producao Fabrica: Veiculo[id=475, cor=Vermelho, tipo=SUV, estacao=4, funcionario=3, pos=34]
+Log Venda Fabrica: Veiculo[id=475, cor=Vermelho, tipo=SUV, estacao=4, funcionario=3, pos=34] -> Loja 2 (pos=39)
+Log Venda Fabrica: Veiculo[id=474, cor=Azul, tipo=Sedan, estacao=3, funcionario=5, pos=33] -> Loja 3 (pos=32)
+Log Producao Fabrica: Veiculo[id=474, cor=Azul, tipo=Sedan, estacao=3, funcionario=5, pos=33]
+Log Producao Fabrica: Veiculo[id=476, cor=Verde, tipo=Sedan, estacao=2, funcionario=2, pos=35]
+Log Venda Fabrica: Veiculo[id=476, cor=Verde, tipo=Sedan, estacao=2, funcionario=2, pos=35] -> Loja 1 (pos=2)
+Log Producao Fabrica: Veiculo[id=477, cor=Azul, tipo=SUV, estacao=2, funcionario=3, pos=36]
+Log Venda Fabrica: Veiculo[id=477, cor=Azul, tipo=SUV, estacao=2, funcionario=3, pos=36] -> Loja 2 (pos=0)
+Log Producao Fabrica: Veiculo[id=478, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=3, pos=37]
+Log Venda Fabrica: Veiculo[id=478, cor=Vermelho, tipo=Sedan, estacao=3, funcionario=3, pos=37] -> Loja 3 (pos=33)
+Log Producao Fabrica: Veiculo[id=479, cor=Verde, tipo=SUV, estacao=1, funcionario=3, pos=38]
+Log Venda Fabrica: Veiculo[id=479, cor=Verde, tipo=SUV, estacao=1, funcionario=3, pos=38] -> Loja 1 (pos=3)
+Log Venda Fabrica: Veiculo[id=480, cor=Azul, tipo=Sedan, estacao=1, funcionario=5, pos=39] -> Loja 2 (pos=1)
+Log Producao Fabrica: Veiculo[id=480, cor=Azul, tipo=Sedan, estacao=1, funcionario=5, pos=39]
+Log Producao Fabrica: Veiculo[id=481, cor=Vermelho, tipo=SUV, estacao=1, funcionario=1, pos=0]
+Log Venda Fabrica: Veiculo[id=481, cor=Vermelho, tipo=SUV, estacao=1, funcionario=1, pos=0] -> Loja 3 (pos=34)
+Log Producao Fabrica: Veiculo[id=482, cor=Verde, tipo=Sedan, estacao=1, funcionario=2, pos=1]
+Log Venda Fabrica: Veiculo[id=482, cor=Verde, tipo=Sedan, estacao=1, funcionario=2, pos=1] -> Loja 1 (pos=4)
+Log Producao Fabrica: Veiculo[id=483, cor=Azul, tipo=SUV, estacao=4, funcionario=4, pos=2]
+Log Venda Fabrica: Veiculo[id=483, cor=Azul, tipo=SUV, estacao=4, funcionario=4, pos=2] -> Loja 2 (pos=2)
+Log Producao Fabrica: Veiculo[id=484, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=1, pos=3]
+Log Venda Fabrica: Veiculo[id=484, cor=Vermelho, tipo=Sedan, estacao=4, funcionario=1, pos=3] -> Loja 3 (pos=35)
+Log Venda Fabrica: Veiculo[id=485, cor=Verde, tipo=SUV, estacao=2, funcionario=1, pos=4] -> Loja 1 (pos=5)
+Log Producao Fabrica: Veiculo[id=485, cor=Verde, tipo=SUV, estacao=2, funcionario=1, pos=4]
+Log Producao Fabrica: Veiculo[id=486, cor=Azul, tipo=Sedan, estacao=2, funcionario=4, pos=5]
+Log Venda Fabrica: Veiculo[id=486, cor=Azul, tipo=Sedan, estacao=2, funcionario=4, pos=5] -> Loja 2 (pos=3)
+Log Producao Fabrica: Veiculo[id=487, cor=Vermelho, tipo=SUV, estacao=3, funcionario=1, pos=6]
+Log Venda Fabrica: Veiculo[id=487, cor=Vermelho, tipo=SUV, estacao=3, funcionario=1, pos=6] -> Loja 3 (pos=36)
+Log Venda Fabrica: Veiculo[id=488, cor=Verde, tipo=Sedan, estacao=4, funcionario=5, pos=7] -> Loja 1 (pos=6)
+Log Producao Fabrica: Veiculo[id=488, cor=Verde, tipo=Sedan, estacao=4, funcionario=5, pos=7]
+Log Producao Fabrica: Veiculo[id=489, cor=Azul, tipo=SUV, estacao=4, funcionario=2, pos=8]
+Log Venda Fabrica: Veiculo[id=489, cor=Azul, tipo=SUV, estacao=4, funcionario=2, pos=8] -> Loja 2 (pos=4)
+Log Producao Fabrica: Veiculo[id=490, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=5, pos=9]
+Log Venda Fabrica: Veiculo[id=490, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=5, pos=9] -> Loja 3 (pos=37)
+Log Producao Fabrica: Veiculo[id=491, cor=Verde, tipo=SUV, estacao=3, funcionario=4, pos=10]
+Log Venda Fabrica: Veiculo[id=491, cor=Verde, tipo=SUV, estacao=3, funcionario=4, pos=10] -> Loja 1 (pos=7)
+Log Producao Fabrica: Veiculo[id=492, cor=Azul, tipo=Sedan, estacao=3, funcionario=2, pos=11]
+Log Venda Fabrica: Veiculo[id=492, cor=Azul, tipo=Sedan, estacao=3, funcionario=2, pos=11] -> Loja 2 (pos=5)
+Log Producao Fabrica: Veiculo[id=493, cor=Vermelho, tipo=SUV, estacao=1, funcionario=4, pos=12]
+Log Venda Fabrica: Veiculo[id=493, cor=Vermelho, tipo=SUV, estacao=1, funcionario=4, pos=12] -> Loja 3 (pos=38)
+Log Producao Fabrica: Veiculo[id=494, cor=Verde, tipo=Sedan, estacao=4, funcionario=3, pos=13]
+Log Producao Fabrica: Veiculo[id=495, cor=Azul, tipo=SUV, estacao=3, funcionario=5, pos=14]
+Log Venda Fabrica: Veiculo[id=495, cor=Azul, tipo=SUV, estacao=3, funcionario=5, pos=14] -> Loja 2 (pos=6)
+Log Venda Fabrica: Veiculo[id=494, cor=Verde, tipo=Sedan, estacao=4, funcionario=3, pos=13] -> Loja 1 (pos=8)
+Log Producao Fabrica: Veiculo[id=496, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=2, pos=15]
+Log Venda Fabrica: Veiculo[id=496, cor=Vermelho, tipo=Sedan, estacao=2, funcionario=2, pos=15] -> Loja 3 (pos=39)
+Log Venda Fabrica: Veiculo[id=497, cor=Verde, tipo=SUV, estacao=2, funcionario=3, pos=16] -> Loja 2 (pos=7)
+Log Producao Fabrica: Veiculo[id=497, cor=Verde, tipo=SUV, estacao=2, funcionario=3, pos=16]
+Log Producao Fabrica: Veiculo[id=498, cor=Azul, tipo=Sedan, estacao=3, funcionario=3, pos=17]
+Log Venda Fabrica: Veiculo[id=498, cor=Azul, tipo=Sedan, estacao=3, funcionario=3, pos=17] -> Loja 1 (pos=9)
+Log Producao Fabrica: Veiculo[id=499, cor=Vermelho, tipo=SUV, estacao=1, funcionario=3, pos=18]
+Log Venda Fabrica: Veiculo[id=499, cor=Vermelho, tipo=SUV, estacao=1, funcionario=3, pos=18] -> Loja 3 (pos=0)
