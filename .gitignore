@@ -22,6 +22,9 @@ bin/
 /nbdist/
 /.nb-gradle/
 
+### Log files ###
+*.txt
+
 ### VS Code ###
 .vscode/
 
