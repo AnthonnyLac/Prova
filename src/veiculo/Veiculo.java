@@ -7,6 +7,7 @@ public class Veiculo {
     private int idEstacao;
     private int idFuncionario;
     private int posicaoEsteira;
+
     public Veiculo(int id, String cor, String tipo, int idEstacao, int idFuncionario, int posicaoEsteira) {
         this.id = id;
         this.cor = cor;
@@ -15,6 +16,7 @@ public class Veiculo {
         this.idFuncionario = idFuncionario;
         this.posicaoEsteira = posicaoEsteira;
     }
+
     public int getId() {
         return id;
     }
@@ -33,6 +35,8 @@ public class Veiculo {
     public int getPosicaoEsteira() {
         return posicaoEsteira;
     }
+
+    @Override
     public String toString() {
         return "Veiculo[id=" + id + ", cor=" + cor + ", tipo=" + tipo + ", estacao=" + idEstacao + ", funcionario=" + idFuncionario + ", pos=" + posicaoEsteira + "]";
     }

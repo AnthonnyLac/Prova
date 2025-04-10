@@ -9,6 +9,7 @@ class Funcionario implements Runnable {
     private Semaphore[] ferramentas;
     private int indice;
     private Random rand = new Random();
+
     public Funcionario(int idEstacao, int idFuncionario, Fabrica fabrica, Semaphore[] ferramentas, int indice) {
         this.idEstacao = idEstacao;
         this.idFuncionario = idFuncionario;
@@ -16,6 +17,7 @@ class Funcionario implements Runnable {
         this.ferramentas = ferramentas;
         this.indice = indice;
     }
+
     public void run() {
         while (true) {
             try {
@@ -26,15 +28,16 @@ class Funcionario implements Runnable {
                     ferramentas[indice].acquire();
                     ferramentas[(indice + 1) % 5].acquire();
                 }
+
                 fabrica.produzirVeiculo(idEstacao, idFuncionario);
+
                 ferramentas[indice].release();
                 ferramentas[(indice + 1) % 5].release();
 
-                System.out.println("[" + Thread.currentThread().getName() + " - " + System.currentTimeMillis() +
-                        "] Funcionário " + idFuncionario + " da estação " + idEstacao + " iniciou uma produção.");
-
-                Thread.sleep(5000);
-            } catch (InterruptedException e) {}
+                Thread.sleep(500);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
         }
     }
 }

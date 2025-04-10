@@ -15,7 +15,7 @@ public class Log {
     public static synchronized void registroVendaLoja(Veiculo v, String loja, int cliente) {
         System.out.println("Log Venda Loja: " + v + " -> Cliente " + cliente + " (" + loja + ")");
     }
-    public static synchronized void registroGaragemCliente(Veiculo v, int cliente) {
-        System.out.println("Log Garagem Cliente " + cliente + ": " + v);
+    public static synchronized void registroGaragemCliente(Veiculo v, int cliente, int posGaragem) {
+        System.out.println("Log Garagem Cliente " + cliente + ": " + v + " (pos=" + posGaragem + ")");
     }
 }
